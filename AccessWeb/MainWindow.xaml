@@ -1,0 +1,57 @@
+﻿<Window x:Class="AccessWeb.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AccessWeb"
+        mc:Ignorable="d" Title="自动访问网页" Width="1200" Height="600" Icon="AccessWeb.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="146"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="427"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="button_deleteAll" Content="全部删除" HorizontalAlignment="Left" Margin="61,13,0,0" VerticalAlignment="Top" Width="75" Height="22" Click="button_deleteAll_Click" Grid.Row="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Button x:Name="button_delete" Content="删除" HorizontalAlignment="Left" Margin="165,13,0,0" VerticalAlignment="Top" Width="75" Height="22" Click="button_delete_Click" Grid.Row="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Button x:Name="button_Import" Content="导入" HorizontalAlignment="Left" Margin="257,13,0,0" VerticalAlignment="Top" Width="75" Height="22" Click="button_Import_Click" Grid.Row="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Button x:Name="button_stop" Content="停止" HorizontalAlignment="Right" Margin="0,79,250,0" Click="button_stop_Click" Grid.Row="1" Width="75" Height="50" VerticalAlignment="Top"/>
+        <Button x:Name="button_importTXT" Content="导入TXT" Margin="350,13,0,0" VerticalAlignment="Top" Height="22" RenderTransformOrigin="0.191,0.536" HorizontalAlignment="Left" Width="75" Click="button_importTXT_Click" Grid.Row="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Button x:Name="button_run" Content="运行" HorizontalAlignment="Left" Margin="7,79,0,0" VerticalAlignment="Top" Height="50" Click="button_run_Click" Grid.Row="1" Width="75"/>
+        <ListView x:Name="listView_domain" Margin="0,24,187,0">
+            <ListView.ItemBindingGroup>
+                <BindingGroup/>
+            </ListView.ItemBindingGroup>
+            <ListView.View>
+                <GridView >
+                    <GridViewColumn Header="编号" Width="40" DisplayMemberBinding="{Binding Path=ID,Mode=OneWay}"/>
+                    <GridViewColumn Header="域名" Width="130" DisplayMemberBinding="{Binding Path=Name,Mode=OneWay}"/>
+                    <GridViewColumn Header="状态" Width="70" DisplayMemberBinding="{Binding Path=Status,Mode=OneWay}"/>
+                </GridView>
+            </ListView.View>
+            <ListView.ContextMenu>
+                <ContextMenu/>
+            </ListView.ContextMenu>
+        </ListView>
+        <RichTextBox x:Name="richTextBox_domain" Margin="239,24,0,0" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+            <FlowDocument LineHeight="1">
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <RichTextBox x:Name="richTextBox_log" Height="342" Margin="0,0,0,1" VerticalAlignment="Bottom" Grid.RowSpan="2" Grid.Column="1" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+            <FlowDocument  LineHeight="1"/>
+        </RichTextBox>
+        <DatePicker x:Name="DatePicker_interval" HorizontalAlignment="Left" Margin="335,62,0,0" Grid.Row="1" VerticalAlignment="Top" Height="24" Width="82" RenderTransformOrigin="0.695,-0.75" IsTodayHighlighted="False"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="0,3,0,0" TextWrapping="Wrap" Text="已添加的域名列表：" VerticalAlignment="Top" Height="16" Width="108"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="239,3,0,0" TextWrapping="Wrap" Text="要导入的域名：" VerticalAlignment="Top" Height="16" Width="84"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="203,46,0,0" Grid.Row="1" TextWrapping="Wrap" Text="域名单个访问时间设置：" VerticalAlignment="Top" Height="16" Width="132"/>
+        <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Margin="201,91,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.745,-0.688" Height="16" Width="158"><Run Text="所有域名更新二次访问设置："/><LineBreak/><Run/></TextBlock>
+        <DatePicker x:Name="DatePicker_allInterval" HorizontalAlignment="Left" Margin="335,117,0,0" Grid.Row="1" VerticalAlignment="Top" IsTodayHighlighted="False"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="57,46,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120" IsEditable="True"/>
+
+    </Grid>
+</Window>

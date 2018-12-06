@@ -1,0 +1,2296 @@
+﻿
+INFO  2018-12-06 10:00:39:941
+消息：2018/12/6 10:00:39, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:00:40:027
+消息：2018/12/6 10:00:40, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:00:40:048
+消息：2018/12/6 10:00:40, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:00:40:117
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:01:23:308
+消息：2018/12/6 10:01:23, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:01:23:375
+消息：2018/12/6 10:01:23, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:01:23:396
+消息：2018/12/6 10:01:23, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:01:23:456
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:05:35:958
+消息：2018/12/6 10:05:35, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:05:36:024
+消息：2018/12/6 10:05:36, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:05:36:045
+消息：2018/12/6 10:05:36, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:05:36:191
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:06:19:226
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:06:24:239
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:06:24:248
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:06:30:616
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:06:32:888
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:06:35:888
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:06:35:889
+消息：只有一页，结束任务，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:06:35:913
+消息：2018/12/6 10:06:35, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\webbrowser\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-12-06 10:08:56:346
+消息：2018/12/6 10:08:56, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:08:56:419
+消息：2018/12/6 10:08:56, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:08:56:440
+消息：2018/12/6 10:08:56, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:08:56:499
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:11:30:000
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:11:35:019
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:11:35:075
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:11:49:638
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:12:05:664
+消息：2018/12/6 10:12:05, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:12:05:832
+消息：2018/12/6 10:12:05, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:12:05:896
+消息：2018/12/6 10:12:05, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:12:05:937
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:12:12:908
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:12:17:910
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:12:17:919
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:12:22:392
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:12:43:957
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:12:46:957
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:12:46:959
+消息：只有一页，结束任务，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:12:46:988
+消息：2018/12/6 10:12:46, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\webbrowser\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-12-06 10:12:58:543
+消息：2018/12/6 10:12:58, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:12:58:584
+消息：2018/12/6 10:12:58, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:12:58:603
+消息：2018/12/6 10:12:58, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:12:58:729
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:13:06:406
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:13:11:409
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:13:11:417
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:13:17:438
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:13:27:100
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:14:10:979
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:14:10:981
+消息：只有一页，结束任务，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:14:11:002
+消息：2018/12/6 10:14:11, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\webbrowser\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-12-06 10:14:30:958
+消息：2018/12/6 10:14:30, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:14:30:997
+消息：2018/12/6 10:14:30, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:14:31:018
+消息：2018/12/6 10:14:31, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:14:31:101
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:14:39:521
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:14:44:522
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:14:44:538
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:15:57:514
+消息：2018/12/6 10:15:57, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:15:57:560
+消息：2018/12/6 10:15:57, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:15:57:593
+消息：2018/12/6 10:15:57, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:15:57:628
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:16:15:906
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:16:20:907
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:16:20:915
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:16:25:582
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:16:31:393
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:31:37:475
+消息：2018/12/6 10:31:37, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:31:37:517
+消息：2018/12/6 10:31:37, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:31:37:541
+消息：2018/12/6 10:31:37, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:31:37:585
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:33:28:262
+消息：2018/12/6 10:33:28, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:33:28:303
+消息：2018/12/6 10:33:28, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:33:28:336
+消息：2018/12/6 10:33:28, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:33:28:379
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:33:40:296
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:33:45:297
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:33:45:304
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:34:18:097
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:34:29:286
+消息：2018/12/6 10:34:29, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:34:29:328
+消息：2018/12/6 10:34:29, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:34:29:357
+消息：2018/12/6 10:34:29, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:34:29:392
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:34:43:137
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:34:48:140
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:34:48:156
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:35:10:294
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:37:07:926
+消息：2018/12/6 10:37:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:37:07:986
+消息：2018/12/6 10:37:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:37:08:013
+消息：2018/12/6 10:37:08, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:37:08:052
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:38:03:972
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:38:08:976
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:38:08:988
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:38:31:241
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:43:17:617
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:43:32:164
+消息：2018/12/6 10:43:32, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:43:32:211
+消息：2018/12/6 10:43:32, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:43:32:236
+消息：2018/12/6 10:43:32, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:43:32:305
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:43:55:666
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:44:00:668
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:44:00:679
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:45:49:136
+消息：2018/12/6 10:45:49, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:45:49:176
+消息：2018/12/6 10:45:49, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:45:49:201
+消息：2018/12/6 10:45:49, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:45:49:264
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:45:57:369
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:46:02:370
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:46:02:379
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:46:07:372
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:46:09:727
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:51:07:812
+消息：2018/12/6 10:51:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:51:07:874
+消息：2018/12/6 10:51:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:51:07:899
+消息：2018/12/6 10:51:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 10:51:07:954
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 10:51:36:454
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:51:41:457
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:51:41:465
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 10:52:07:311
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:09:30:518
+消息：2018/12/6 11:09:30, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:09:30:654
+消息：2018/12/6 11:09:30, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:09:30:681
+消息：2018/12/6 11:09:30, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:09:30:728
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:09:46:464
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:09:51:477
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:09:51:484
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:09:55:993
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:10:39:394
+消息：2018/12/6 11:10:39, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:10:39:436
+消息：2018/12/6 11:10:39, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:10:39:457
+消息：2018/12/6 11:10:39, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:10:39:493
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:10:58:976
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:11:03:978
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:11:03:989
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:11:08:294
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:11:46:044
+消息：2018/12/6 11:11:45, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:11:46:083
+消息：2018/12/6 11:11:46, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:11:46:106
+消息：2018/12/6 11:11:46, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:11:46:142
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:12:06:924
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:12:11:925
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:12:11:932
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:12:16:182
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:13:20:390
+消息：2018/12/6 11:13:20, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:13:20:447
+消息：2018/12/6 11:13:20, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:13:20:465
+消息：2018/12/6 11:13:20, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:13:20:501
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:14:00:731
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:14:05:735
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:14:05:752
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:14:10:648
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:14:43:492
+消息：2018/12/6 11:14:43, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:14:43:534
+消息：2018/12/6 11:14:43, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:14:43:563
+消息：2018/12/6 11:14:43, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:14:43:640
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:15:37:190
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:15:42:191
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:15:42:200
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:18:38:111
+消息：2018/12/6 11:18:38, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:18:38:154
+消息：2018/12/6 11:18:38, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:18:38:175
+消息：2018/12/6 11:18:38, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:18:38:222
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:19:10:753
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:19:25:667
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:19:44:830
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:19:50:240
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:20:28:816
+消息：2018/12/6 11:20:28, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:20:28:866
+消息：2018/12/6 11:20:28, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:20:28:888
+消息：2018/12/6 11:20:28, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:20:28:940
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:20:48:004
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:21:21:358
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:21:30:449
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:21:55:801
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:32:56:061
+消息：2018/12/6 11:32:56, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:32:56:104
+消息：2018/12/6 11:32:56, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:32:56:128
+消息：2018/12/6 11:32:56, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:32:56:182
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:33:30:831
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:33:40:549
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:33:50:707
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:33:57:569
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:34:19:110
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:35:22:849
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:35:34:555
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:35:41:554
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:35:58:515
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:38:07:310
+消息：2018/12/6 11:38:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:38:07:378
+消息：2018/12/6 11:38:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:38:07:425
+消息：2018/12/6 11:38:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:38:07:531
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:38:33:386
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:38:41:418
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:38:50:790
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:39:01:283
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:39:12:471
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:40:52:826
+消息：2018/12/6 11:40:52, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:40:52:873
+消息：2018/12/6 11:40:52, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:40:52:896
+消息：2018/12/6 11:40:52, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:40:52:940
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:40:59:411
+消息：2018/12/6 11:40:59, 修改1条记录,1
+位置：RankHelper.Appinfo.ChangeTask(D:\project\webbrowser\RankHelper\App\Appinfo.cs:184)
+
+INFO  2018-12-06 11:41:10:809
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:41:17:834
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:41:30:891
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:41:39:846
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:42:22:636
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:43:15:975
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:43:43:090
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:43:48:855
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:43:53:856
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:43:53:866
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:47:20:208
+消息：2018/12/6 11:47:20, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:47:20:251
+消息：2018/12/6 11:47:20, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:47:20:291
+消息：2018/12/6 11:47:20, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:47:20:354
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:48:19:958
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:48:24:959
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:48:24:967
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:48:35:145
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:49:36:190
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:49:39:213
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:50:28:683
+消息：2018/12/6 11:50:28, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:50:28:720
+消息：2018/12/6 11:50:28, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:50:28:744
+消息：2018/12/6 11:50:28, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:50:28:786
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:50:36:832
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:50:41:834
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:50:41:842
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:50:50:596
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:51:15:606
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:51:18:629
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:52:36:513
+消息：2018/12/6 11:52:36, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:52:36:558
+消息：2018/12/6 11:52:36, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:52:36:589
+消息：2018/12/6 11:52:36, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:52:36:648
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:53:04:682
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:53:09:685
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:53:09:704
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:53:14:086
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:53:15:112
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:53:18:135
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:53:58:695
+消息：2018/12/6 11:53:58, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:53:58:747
+消息：2018/12/6 11:53:58, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:53:58:767
+消息：2018/12/6 11:53:58, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:53:58:804
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:54:12:678
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:54:17:681
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:54:17:720
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:54:24:198
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:55:07:484
+消息：2018/12/6 11:55:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:55:07:537
+消息：2018/12/6 11:55:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:55:07:566
+消息：2018/12/6 11:55:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:55:07:664
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:55:25:957
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:55:30:960
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:55:30:969
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:55:36:932
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:55:38:286
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:55:41:308
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:58:29:581
+消息：2018/12/6 11:58:29, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:58:29:631
+消息：2018/12/6 11:58:29, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:58:29:657
+消息：2018/12/6 11:58:29, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 11:58:29:724
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 11:58:36:660
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:58:41:663
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:58:41:673
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:58:47:176
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:58:50:111
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 11:58:53:136
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:23:34:063
+消息：2018/12/6 15:23:33, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:23:34:128
+消息：2018/12/6 15:23:34, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:23:34:149
+消息：2018/12/6 15:23:34, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:23:34:243
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 15:25:38:521
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:25:43:537
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:25:43:546
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:26:10:011
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:26:11:636
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:26:14:668
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:27:22:240
+消息：2018/12/6 15:27:22, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:27:22:288
+消息：2018/12/6 15:27:22, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:27:22:310
+消息：2018/12/6 15:27:22, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:27:22:372
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 15:27:29:360
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:27:34:380
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:27:34:388
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:27:39:518
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:27:43:631
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:27:46:655
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:30:02:799
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:30:07:845
+消息：2018/12/6 15:30:07, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\webbrowser\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-12-06 15:30:53:249
+消息：2018/12/6 15:30:53, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:30:53:314
+消息：2018/12/6 15:30:53, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:30:53:362
+消息：2018/12/6 15:30:53, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:30:53:437
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 15:31:02:082
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:31:07:087
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:31:07:183
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:33:04:058
+消息：2018/12/6 15:33:03, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:33:04:114
+消息：2018/12/6 15:33:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:33:04:157
+消息：2018/12/6 15:33:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:33:04:232
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 15:33:22:985
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:33:27:988
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:33:28:010
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:34:17:776
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:34:19:798
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:34:22:835
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:34:56:669
+消息：2018/12/6 15:34:56, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:34:56:738
+消息：2018/12/6 15:34:56, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:34:56:770
+消息：2018/12/6 15:34:56, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 15:34:56:856
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 15:35:17:473
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:35:22:475
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 15:35:22:512
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:12:09:738
+消息：2018/12/6 16:12:09, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:12:09:800
+消息：2018/12/6 16:12:09, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:12:09:836
+消息：2018/12/6 16:12:09, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:12:09:949
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 16:12:27:428
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:12:32:430
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:12:32:446
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:12:50:988
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:12:54:765
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:12:57:792
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:15:26:922
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:15:34:660
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:15:39:661
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:15:39:665
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:18:52:475
+消息：2018/12/6 16:18:52, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:18:52:524
+消息：2018/12/6 16:18:52, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:18:52:549
+消息：2018/12/6 16:18:52, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:18:52:630
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 16:19:00:538
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:19:05:539
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:19:05:556
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:27:04:447
+消息：2018/12/6 16:27:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:27:04:503
+消息：2018/12/6 16:27:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:27:04:540
+消息：2018/12/6 16:27:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:27:04:615
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 16:27:24:637
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:27:29:638
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:27:29:646
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:30:49:934
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:31:01:741
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:31:04:772
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:35:29:599
+消息：2018/12/6 16:35:29, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:35:29:665
+消息：2018/12/6 16:35:29, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:35:29:697
+消息：2018/12/6 16:35:29, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:35:29:846
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 16:35:51:956
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:35:56:957
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:35:56:972
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:37:05:568
+消息：2018/12/6 16:37:05, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:37:05:618
+消息：2018/12/6 16:37:05, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:37:05:639
+消息：2018/12/6 16:37:05, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:37:05:701
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 16:37:21:875
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:37:26:877
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:37:26:896
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:38:50:225
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:39:06:951
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:39:09:987
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:40:37:111
+消息：2018/12/6 16:40:37, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:40:37:156
+消息：2018/12/6 16:40:37, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:40:37:184
+消息：2018/12/6 16:40:37, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:40:37:279
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 16:40:49:698
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:40:54:700
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:40:54:795
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:41:27:268
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:41:34:803
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:41:37:828
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:43:04:902
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:43:09:928
+消息：2018/12/6 16:43:09, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\webbrowser\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-12-06 16:43:22:382
+消息：2018/12/6 16:43:22, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:43:22:443
+消息：2018/12/6 16:43:22, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:43:22:465
+消息：2018/12/6 16:43:22, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:43:22:587
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 16:43:43:653
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:43:48:655
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:43:48:669
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:44:25:458
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:44:32:759
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:44:35:784
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:46:35:863
+消息：2018/12/6 16:46:35, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:46:35:941
+消息：2018/12/6 16:46:35, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:46:35:976
+消息：2018/12/6 16:46:35, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:46:36:109
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 16:46:43:988
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:46:48:990
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:46:48:998
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:47:37:538
+消息：2018/12/6 16:47:37, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:47:37:591
+消息：2018/12/6 16:47:37, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:47:37:620
+消息：2018/12/6 16:47:37, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 16:47:37:714
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 16:47:45:894
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:47:50:895
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:47:50:903
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 16:53:04:212
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:03:22:589
+消息：2018/12/6 17:03:22, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:03:22:635
+消息：2018/12/6 17:03:22, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:03:22:656
+消息：2018/12/6 17:03:22, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:03:22:746
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:03:41:332
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:03:46:335
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:03:46:344
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:04:04:139
+消息：2018/12/6 17:04:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:04:04:181
+消息：2018/12/6 17:04:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:04:04:210
+消息：2018/12/6 17:04:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:04:04:255
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:04:10:664
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:04:15:665
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:04:15:808
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:04:36:329
+消息：2018/12/6 17:04:36, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:04:36:377
+消息：2018/12/6 17:04:36, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:04:36:413
+消息：2018/12/6 17:04:36, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:04:36:457
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:04:45:553
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:04:50:629
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:04:51:664
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:05:04:145
+消息：2018/12/6 17:05:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:05:04:203
+消息：2018/12/6 17:05:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:05:04:233
+消息：2018/12/6 17:05:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:05:04:285
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:05:17:853
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:05:22:855
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:05:22:863
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:05:46:614
+消息：2018/12/6 17:05:46, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:05:46:658
+消息：2018/12/6 17:05:46, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:05:46:691
+消息：2018/12/6 17:05:46, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:05:46:749
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:05:53:718
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:05:58:720
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:05:58:731
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:06:43:590
+消息：2018/12/6 17:06:43, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:06:43:642
+消息：2018/12/6 17:06:43, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:06:43:666
+消息：2018/12/6 17:06:43, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:06:43:721
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:06:53:299
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:06:58:302
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:06:58:356
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:07:48:000
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:07:53:740
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:07:58:740
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:07:58:748
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:08:07:392
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:08:12:863
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:08:17:864
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:08:17:869
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:08:26:939
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:08:32:680
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:08:37:680
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:08:37:685
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:09:38:079
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:09:43:610
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:09:48:611
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:09:48:616
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:10:01:652
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:10:09:137
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:10:14:138
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:10:14:154
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:10:23:036
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:24:59:468
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:25:04:469
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:25:04:474
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:25:17:453
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:25:23:443
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:25:28:444
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:25:28:449
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:25:35:842
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:25:41:224
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:25:46:224
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:25:46:229
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:25:53:330
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:25:58:866
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:26:03:867
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:26:03:872
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:26:11:440
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:26:17:775
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:26:22:775
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:26:22:783
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:26:30:181
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:26:35:885
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:26:40:885
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:26:40:891
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:26:49:369
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:27:15:056
+消息：2018/12/6 17:27:15, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:27:15:105
+消息：2018/12/6 17:27:15, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:27:15:130
+消息：2018/12/6 17:27:15, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:27:15:181
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:27:22:980
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:27:27:982
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:27:27:990
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:27:32:992
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:27:34:422
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:27:37:452
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:32:42:394
+消息：2018/12/6 17:32:42, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:32:42:448
+消息：2018/12/6 17:32:42, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:32:42:478
+消息：2018/12/6 17:32:42, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:32:42:619
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:32:49:736
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:32:54:737
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:32:54:744
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:33:01:301
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:33:04:885
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:33:07:910
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:35:02:143
+消息：2018/12/6 17:35:02, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:35:02:218
+消息：2018/12/6 17:35:02, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:35:02:328
+消息：2018/12/6 17:35:02, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:35:02:379
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:35:17:884
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:35:22:886
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:35:22:895
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:35:27:422
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:35:28:427
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:35:31:452
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:35:48:168
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:36:19:555
+消息：2018/12/6 17:36:19, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:36:19:608
+消息：2018/12/6 17:36:19, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:36:19:635
+消息：2018/12/6 17:36:19, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:36:19:705
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:36:30:423
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:36:35:425
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:36:35:462
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:37:17:893
+消息：2018/12/6 17:37:17, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:37:17:943
+消息：2018/12/6 17:37:17, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:37:17:965
+消息：2018/12/6 17:37:17, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:37:18:005
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:37:25:189
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:37:30:191
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:37:30:202
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:37:45:107
+消息：2018/12/6 17:37:45, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:37:45:146
+消息：2018/12/6 17:37:45, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:37:45:173
+消息：2018/12/6 17:37:45, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:37:45:318
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:38:05:122
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:38:10:123
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:38:10:131
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:38:21:860
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:38:23:162
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:38:26:185
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:38:32:491
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:38:37:539
+消息：2018/12/6 17:38:37, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\webbrowser\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-12-06 17:39:20:409
+消息：2018/12/6 17:39:20, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:39:20:551
+消息：2018/12/6 17:39:20, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:39:20:577
+消息：2018/12/6 17:39:20, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:39:20:666
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:39:27:112
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:39:32:125
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:39:32:151
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:39:50:522
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:39:51:409
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:39:54:432
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:40:00:465
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:40:05:493
+消息：2018/12/6 17:40:05, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\webbrowser\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-12-06 17:40:40:526
+消息：2018/12/6 17:40:40, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:40:40:623
+消息：2018/12/6 17:40:40, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:40:40:820
+消息：2018/12/6 17:40:40, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:40:41:027
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-12-06 17:40:48:518
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:40:53:543
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:40:53:713
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:40:58:828
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:41:00:057
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:41:03:081
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:41:11:995
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-12-06 17:41:17:021
+消息：2018/12/6 17:41:17, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\webbrowser\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-12-06 17:41:36:663
+消息：2018/12/6 17:41:36, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:41:36:755
+消息：2018/12/6 17:41:36, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:41:36:778
+消息：2018/12/6 17:41:36, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\webbrowser\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-12-06 17:41:36:910
+消息：当前IP地址：192.168.1.248
+位置：RankHelper.MainForm.ShowIP(D:\project\webbrowser\RankHelper\窗口\MainForm.cs:292)

@@ -1,0 +1,218 @@
+[1006/004515.764:ERROR:gl_surface_egl.cc(844)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1006/004524.133:INFO:CONSOLE(726)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://www.baidu.com/ (726)
+[1006/004524.133:INFO:CONSOLE(726)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://www.baidu.com/ (726)
+[1006/004524.288:INFO:CONSOLE(4)] "Uncaught ReferenceError: c is not defined", source: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js (4)
+[1006/004524.456:INFO:CONSOLE(177)] "同学，祝贺你喜提彩蛋~
+或许你们还在犹豫是否加入，我会坦诚的告诉你我们超酷；
+在这里大家都用无人车代步，AI音箱不仅播放还可以交互；
+人工智能是发展的核心技术，做自己让未来不只领先几步；
+在这里做自己，欢迎来到百度！
+", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js (177)
+[1006/004524.456:INFO:CONSOLE(177)] "%c百度2019校园招聘简历提交：http://dwz.cn/XpoFdepe （你将有机会直接获得面试资格）", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js (177)
+[1006/004530.860:ERROR:gl_surface_egl.cc(844)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1006/004602.838:WARNING:resource_bundle.cc(346)] locale_file_path.empty() for locale 
+[1006/004602.838:ERROR:main_delegate.cc(710)] Could not load locale pak for zh-CN
+[1006/004602.895:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.957:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.957:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.957:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.958:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.958:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.958:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.958:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.958:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.958:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.958:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.958:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.958:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.958:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.958:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.958:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.959:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.959:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.959:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.959:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.959:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.959:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.959:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.959:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.959:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.959:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.959:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.959:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.960:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.960:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.960:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.960:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.960:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.960:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.960:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.960:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.960:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.960:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.960:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.960:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.961:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.963:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.963:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.963:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004602.963:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004603.152:WARNING:resource_bundle.cc(346)] locale_file_path.empty() for locale 
+[1006/004603.153:ERROR:main_delegate.cc(710)] Could not load locale pak for zh-CN
+[1006/004603.290:ERROR:gl_surface_egl.cc(844)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1006/004611.109:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004611.109:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004611.467:WARNING:resource_bundle.cc(346)] locale_file_path.empty() for locale 
+[1006/004611.467:ERROR:main_delegate.cc(710)] Could not load locale pak for en-US
+[1006/004613.134:INFO:CONSOLE(726)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://www.baidu.com/ (726)
+[1006/004613.134:INFO:CONSOLE(726)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://www.baidu.com/ (726)
+[1006/004618.130:WARNING:resource_bundle.cc(346)] locale_file_path.empty() for locale 
+[1006/004618.131:ERROR:main_delegate.cc(710)] Could not load locale pak for zh-CN
+[1006/004618.194:ERROR:gl_surface_egl.cc(844)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1006/004623.370:INFO:CONSOLE(3089)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=12323&rn=&oq=&rsv_pq=a7f32282000213bc&rsv_t=faacbENjnsKJi2AIGMPEbLAgMimMdsC7N0PIxvobgg6GLOEqMzXAYoP3XX4&rqlang=cn (3089)
+[1006/004623.371:INFO:CONSOLE(3089)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=12323&rn=&oq=&rsv_pq=a7f32282000213bc&rsv_t=faacbENjnsKJi2AIGMPEbLAgMimMdsC7N0PIxvobgg6GLOEqMzXAYoP3XX4&rqlang=cn (3089)
+[1006/004626.419:ERROR:broker_win.cc(134)] Error sending sync broker message: �ܵ����ڱ��رա� (0xE8)
+[1006/004626.420:ERROR:command_buffer_proxy_impl.cc(101)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+[1006/004635.989:WARNING:resource_bundle.cc(346)] locale_file_path.empty() for locale 
+[1006/004635.989:ERROR:main_delegate.cc(710)] Could not load locale pak for zh-CN
+[1006/004636.254:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.329:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.330:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.330:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.330:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.330:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.330:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.330:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.330:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.330:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.330:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.331:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.331:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.331:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.331:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.331:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.331:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.331:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.331:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.331:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.331:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.331:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.331:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.333:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.333:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.333:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.333:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.333:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.333:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.335:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.335:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.335:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.335:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004636.615:WARNING:resource_bundle.cc(346)] locale_file_path.empty() for locale 
+[1006/004636.615:ERROR:main_delegate.cc(710)] Could not load locale pak for zh-CN
+[1006/004636.739:ERROR:gl_surface_egl.cc(844)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1006/004645.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004645.332:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004645.517:WARNING:resource_bundle.cc(346)] locale_file_path.empty() for locale 
+[1006/004645.517:ERROR:main_delegate.cc(710)] Could not load locale pak for en-US
+[1006/004646.292:INFO:CONSOLE(726)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://www.baidu.com/ (726)
+[1006/004646.293:INFO:CONSOLE(726)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://www.baidu.com/ (726)
+[1006/004646.544:INFO:CONSOLE(177)] "同学，祝贺你喜提彩蛋~
+或许你们还在犹豫是否加入，我会坦诚的告诉你我们超酷；
+在这里大家都用无人车代步，AI音箱不仅播放还可以交互；
+人工智能是发展的核心技术，做自己让未来不只领先几步；
+在这里做自己，欢迎来到百度！
+", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js (177)
+[1006/004646.544:INFO:CONSOLE(177)] "%c百度2019校园招聘简历提交：http://dwz.cn/XpoFdepe （你将有机会直接获得面试资格）", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js (177)
+[1006/004652.305:WARNING:resource_bundle.cc(346)] locale_file_path.empty() for locale 
+[1006/004652.305:ERROR:main_delegate.cc(710)] Could not load locale pak for zh-CN
+[1006/004652.490:ERROR:gl_surface_egl.cc(844)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1006/004705.037:WARNING:resource_bundle.cc(346)] locale_file_path.empty() for locale 
+[1006/004705.037:ERROR:main_delegate.cc(710)] Could not load locale pak for zh-CN
+[1006/004705.318:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.413:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.413:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.413:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.414:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.414:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.414:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.414:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.414:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.414:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.414:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.414:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.414:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.414:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.414:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.414:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.415:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.415:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.415:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.415:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.415:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.415:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.415:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.415:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.415:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.415:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.415:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.415:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.416:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.416:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.416:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.416:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.416:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.416:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.416:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.416:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.416:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.416:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.416:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.417:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.417:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.419:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.419:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.419:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004705.419:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004706.015:WARNING:resource_bundle.cc(346)] locale_file_path.empty() for locale 
+[1006/004706.016:ERROR:main_delegate.cc(710)] Could not load locale pak for zh-CN
+[1006/004706.092:ERROR:gl_surface_egl.cc(844)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1006/004714.432:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004714.433:WARNING:resource_bundle.cc(564)] locale resources are not loaded
+[1006/004714.625:WARNING:resource_bundle.cc(346)] locale_file_path.empty() for locale 
+[1006/004714.625:ERROR:main_delegate.cc(710)] Could not load locale pak for en-US
+[1006/004715.433:INFO:CONSOLE(726)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://www.baidu.com/ (726)
+[1006/004715.433:INFO:CONSOLE(726)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://www.baidu.com/ (726)
+[1006/004715.872:INFO:CONSOLE(177)] "同学，祝贺你喜提彩蛋~
+或许你们还在犹豫是否加入，我会坦诚的告诉你我们超酷；
+在这里大家都用无人车代步，AI音箱不仅播放还可以交互；
+人工智能是发展的核心技术，做自己让未来不只领先几步；
+在这里做自己，欢迎来到百度！
+", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js (177)
+[1006/004715.872:INFO:CONSOLE(177)] "%c百度2019校园招聘简历提交：http://dwz.cn/XpoFdepe （你将有机会直接获得面试资格）", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js (177)
+[1006/004720.606:WARNING:resource_bundle.cc(346)] locale_file_path.empty() for locale 
+[1006/004720.606:ERROR:main_delegate.cc(710)] Could not load locale pak for zh-CN
+[1006/004720.679:ERROR:gl_surface_egl.cc(844)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1006/004736.532:ERROR:gl_surface_egl.cc(844)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1006/004745.688:INFO:CONSOLE(726)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://www.baidu.com/ (726)
+[1006/004745.688:INFO:CONSOLE(726)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://www.baidu.com/ (726)
+[1006/004747.229:INFO:CONSOLE(177)] "同学，祝贺你喜提彩蛋~
+或许你们还在犹豫是否加入，我会坦诚的告诉你我们超酷；
+在这里大家都用无人车代步，AI音箱不仅播放还可以交互；
+人工智能是发展的核心技术，做自己让未来不只领先几步；
+在这里做自己，欢迎来到百度！
+", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js (177)
+[1006/004747.229:INFO:CONSOLE(177)] "%c百度2019校园招聘简历提交：http://dwz.cn/XpoFdepe （你将有机会直接获得面试资格）", source: http://s1.bdstatic.com/r/www/cache/static/global/js/all_async_search_d222faf.js (177)
+[1006/004751.498:ERROR:gl_surface_egl.cc(844)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type

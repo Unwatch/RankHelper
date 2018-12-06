@@ -1,0 +1,12 @@
+D:\project\new\RankHelperService\bin\Release\RankHelperService.exe.config
+D:\project\new\RankHelperService\bin\Release\RankHelperService.exe
+D:\project\new\RankHelperService\bin\Release\RankHelperService.pdb
+D:\project\new\RankHelperService\obj\Release\RankHelperService.csprojResolveAssemblyReference.cache
+D:\project\new\RankHelperService\obj\Release\RankHelperService.MainForm.resources
+D:\project\new\RankHelperService\obj\Release\RankHelperService.Properties.Resources.resources
+D:\project\new\RankHelperService\obj\Release\RankHelperService.csproj.GenerateResource.Cache
+D:\project\new\RankHelperService\obj\Release\RankHelperService.exe
+D:\project\new\RankHelperService\obj\Release\RankHelperService.pdb
+D:\project\new\RankHelper\bin\x86\Release\RankHelperService.exe.config
+D:\project\new\RankHelper\bin\x86\Release\RankHelperService.exe
+D:\project\new\RankHelper\bin\x86\Release\RankHelperService.pdb

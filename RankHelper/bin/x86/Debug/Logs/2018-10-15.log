@@ -1,0 +1,1912 @@
+﻿
+INFO  2018-10-15 00:00:33:224
+消息：2018/10/15 0:00:33, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:00:33:348
+消息：2018/10/15 0:00:33, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:00:33:463
+消息：2018/10/15 0:00:33, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:00:33:565
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:00:40:237
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:00:41:242
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:00:41:269
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:00:41:277
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:00:45:026
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:00:45:541
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:00:48:543
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:00:49:185
+消息：开始查找网站,当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:00:52:270
+消息：没有找到符合的网站,开始查找下一页，当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:00:53:034
+消息：开始查找网站,当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:00:56:034
+消息：没有找到符合的网站,开始查找下一页，当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:00:56:693
+消息：开始查找网站,当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:00:59:769
+消息：没有找到符合的网站,开始查找下一页，当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:00:285
+消息：开始查找网站,当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:03:285
+消息：没有找到符合的网站,开始查找下一页，当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:03:910
+消息：开始查找网站,当前页码6,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:06:994
+消息：没有找到符合的网站,开始查找下一页，当前页码6,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:07:768
+消息：开始查找网站,当前页码7,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:10:768
+消息：没有找到符合的网站,开始查找下一页，当前页码7,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:11:466
+消息：开始查找网站,当前页码8,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:14:466
+消息：没有找到符合的网站,开始查找下一页，当前页码8,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:20:073
+消息：开始查找网站,当前页码9,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:23:074
+消息：没有找到符合的网站,开始查找下一页，当前页码9,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:23:569
+消息：开始查找网站,当前页码10,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:26:648
+消息：没有找到符合的网站,开始查找下一页，当前页码10,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:27:132
+消息：开始查找网站,当前页码11,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:30:132
+消息：没有找到符合的网站,开始查找下一页，当前页码11,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:30:775
+消息：开始查找网站,当前页码12,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:33:856
+消息：没有找到符合的网站,开始查找下一页，当前页码12,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:34:396
+消息：开始查找网站,当前页码13,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:37:471
+消息：没有找到符合的网站,开始查找下一页，当前页码13,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:37:965
+消息：开始查找网站,当前页码14,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:41:030
+消息：没有找到符合的网站,开始查找下一页，当前页码14,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:41:698
+消息：开始查找网站,当前页码15,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:44:698
+消息：没有找到符合的网站,开始查找下一页，当前页码15,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:45:184
+消息：开始查找网站,当前页码16,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:01:48:184
+消息：没有找到符合的网站,开始查找下一页，当前页码16,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:05:15:153
+消息：2018/10/15 0:05:15, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:05:15:325
+消息：2018/10/15 0:05:15, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:05:15:423
+消息：2018/10/15 0:05:15, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:05:15:498
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:05:47:524
+消息：2018/10/15 0:05:47, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:05:47:643
+消息：2018/10/15 0:05:47, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:05:47:766
+消息：2018/10/15 0:05:47, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:05:47:844
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:06:52:247
+消息：2018/10/15 0:06:52, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:06:52:377
+消息：2018/10/15 0:06:52, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:06:52:491
+消息：2018/10/15 0:06:52, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:06:52:546
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:07:15:579
+消息：2018/10/15 0:07:15, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:07:15:722
+消息：2018/10/15 0:07:15, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:07:15:821
+消息：2018/10/15 0:07:15, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:07:15:911
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:07:37:595
+消息：2018/10/15 0:07:37, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:07:37:785
+消息：2018/10/15 0:07:37, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:07:37:956
+消息：2018/10/15 0:07:37, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:07:38:055
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:07:38:128
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:07:39:129
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:07:39:147
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:07:39:155
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:07:42:911
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:07:50:978
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:07:56:580
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:07:57:580
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:07:57:598
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:07:57:599
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:01:171
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:01:644
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:04:646
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:05:577
+消息：开始查找网站,当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:08:651
+消息：没有找到符合的网站,开始查找下一页，当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:09:143
+消息：开始查找网站,当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:12:223
+消息：没有找到符合的网站,开始查找下一页，当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:12:953
+消息：开始查找网站,当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:15:953
+消息：没有找到符合的网站,开始查找下一页，当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:16:519
+消息：开始查找网站,当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:19:609
+消息：没有找到符合的网站,开始查找下一页，当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:20:109
+消息：开始查找网站,当前页码6,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:23:185
+消息：没有找到符合的网站,开始查找下一页，当前页码6,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:23:762
+消息：开始查找网站,当前页码7,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:26:837
+消息：没有找到符合的网站,开始查找下一页，当前页码7,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:27:386
+消息：开始查找网站,当前页码8,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:30:386
+消息：没有找到符合的网站,开始查找下一页，当前页码8,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:30:960
+消息：开始查找网站,当前页码9,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:34:042
+消息：没有找到符合的网站,开始查找下一页，当前页码9,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:34:594
+消息：开始查找网站,当前页码10,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:37:594
+消息：没有找到符合的网站,开始查找下一页，当前页码10,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:38:240
+消息：开始查找网站,当前页码11,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:41:326
+消息：没有找到符合的网站,开始查找下一页，当前页码11,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:41:914
+消息：开始查找网站,当前页码12,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:44:914
+消息：没有找到符合的网站,开始查找下一页，当前页码12,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:45:561
+消息：开始查找网站,当前页码13,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:48:647
+消息：没有找到符合的网站,开始查找下一页，当前页码13,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:49:265
+消息：开始查找网站,当前页码14,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:52:266
+消息：没有找到符合的网站,开始查找下一页，当前页码14,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:53:215
+消息：开始查找网站,当前页码15,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:56:216
+消息：没有找到符合的网站,开始查找下一页，当前页码15,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:56:809
+消息：开始查找网站,当前页码16,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:08:59:809
+消息：没有找到符合的网站,开始查找下一页，当前页码16,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:00:397
+消息：开始查找网站,当前页码17,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:03:479
+消息：没有找到符合的网站,开始查找下一页，当前页码17,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:03:970
+消息：开始查找网站,当前页码18,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:07:052
+消息：没有找到符合的网站,开始查找下一页，当前页码18,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:07:756
+消息：开始查找网站,当前页码19,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:10:756
+消息：没有找到符合的网站,开始查找下一页，当前页码19,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:11:228
+消息：开始查找网站,当前页码20,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:14:306
+消息：没有找到符合的网站,开始查找下一页，当前页码20,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:15:232
+消息：开始查找网站,当前页码21,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:18:287
+消息：没有找到符合的网站,开始查找下一页，当前页码21,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:19:618
+消息：开始查找网站,当前页码22,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:22:619
+消息：没有找到符合的网站,开始查找下一页，当前页码22,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:23:525
+消息：开始查找网站,当前页码23,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:26:526
+消息：没有找到符合的网站,开始查找下一页，当前页码23,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:27:281
+消息：开始查找网站,当前页码24,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:30:372
+消息：没有找到符合的网站,开始查找下一页，当前页码24,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:31:441
+消息：开始查找网站,当前页码25,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:34:524
+消息：没有找到符合的网站,开始查找下一页，当前页码25,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:35:435
+消息：开始查找网站,当前页码26,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:38:435
+消息：没有找到符合的网站,开始查找下一页，当前页码26,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:39:437
+消息：开始查找网站,当前页码27,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:42:437
+消息：没有找到符合的网站,开始查找下一页，当前页码27,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:43:142
+消息：开始查找网站,当前页码28,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:46:209
+消息：没有找到符合的网站,开始查找下一页，当前页码28,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:47:214
+消息：开始查找网站,当前页码29,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:50:216
+消息：没有找到符合的网站,开始查找下一页，当前页码29,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:51:120
+消息：开始查找网站,当前页码30,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:54:120
+消息：没有找到符合的网站,开始查找下一页，当前页码30,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:09:57:189
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:20:346
+消息：2018/10/15 0:11:20, 修改1条记录,1
+位置：RankHelper.Appinfo.ChangeTask(D:\project\new\RankHelper\App\Appinfo.cs:184)
+
+INFO  2018-10-15 00:11:27:528
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:28:529
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:28:534
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:28:535
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:34:840
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:35:242
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:38:327
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:38:999
+消息：开始查找网站,当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:42:000
+消息：没有找到符合的网站,开始查找下一页，当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:42:642
+消息：开始查找网站,当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:45:740
+消息：没有找到符合的网站,开始查找下一页，当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:46:378
+消息：开始查找网站,当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:49:378
+消息：没有找到符合的网站,开始查找下一页，当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:50:202
+消息：开始查找网站,当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:11:53:202
+消息：没有找到符合的网站,开始查找下一页，当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:16:28:555
+消息：限定时间内未完成当前任务，开始执行下一个任务
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:16:28:566
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:16:29:570
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:16:29:602
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:16:29:631
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:16:33:021
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:21:29:668
+消息：限定时间内未完成当前任务，开始执行下一个任务
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:21:29:676
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:21:30:680
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:21:30:762
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:21:30:773
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:21:34:039
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:26:30:811
+消息：限定时间内未完成当前任务，开始执行下一个任务
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:26:30:819
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:26:31:823
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:26:31:844
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:26:31:857
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:26:35:370
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:12:623
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:18:427
+消息：2018/10/15 0:30:18, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:30:18:568
+消息：2018/10/15 0:30:18, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:30:18:675
+消息：2018/10/15 0:30:18, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:30:18:747
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:30:26:921
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:27:923
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:27:949
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:27:958
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:31:881
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:32:396
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:35:397
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:36:345
+消息：开始查找网站,当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:39:444
+消息：没有找到符合的网站,开始查找下一页，当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:40:123
+消息：开始查找网站,当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:43:123
+消息：没有找到符合的网站,开始查找下一页，当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:43:862
+消息：开始查找网站,当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:46:862
+消息：没有找到符合的网站,开始查找下一页，当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:47:738
+消息：开始查找网站,当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:50:827
+消息：没有找到符合的网站,开始查找下一页，当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:50:828
+消息：已经是最后一页，结束任务，当前页码6,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:30:52:948
+消息：2018/10/15 0:30:52, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\new\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-10-15 00:31:04:157
+消息：2018/10/15 0:31:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:31:04:274
+消息：2018/10/15 0:31:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:31:04:370
+消息：2018/10/15 0:31:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:31:04:415
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:31:10:724
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:11:725
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:11:742
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:11:749
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:15:467
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:15:871
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:18:871
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:19:647
+消息：开始查找网站,当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:22:663
+消息：没有找到符合的网站,开始查找下一页，当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:23:122
+消息：开始查找网站,当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:26:122
+消息：没有找到符合的网站,开始查找下一页，当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:26:673
+消息：开始查找网站,当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:29:758
+消息：没有找到符合的网站,开始查找下一页，当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:30:270
+消息：开始查找网站,当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:33:270
+消息：没有找到符合的网站,开始查找下一页，当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:33:270
+消息：已经是最后一页，结束任务，当前页码6,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:31:38:347
+消息：2018/10/15 0:31:38, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\new\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-10-15 00:35:54:885
+消息：2018/10/15 0:35:54, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:35:55:014
+消息：2018/10/15 0:35:55, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:35:55:114
+消息：2018/10/15 0:35:55, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:35:55:158
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:36:21:569
+消息：2018/10/15 0:36:21, 修改1条记录,1
+位置：RankHelper.Appinfo.ChangeTask(D:\project\new\RankHelper\App\Appinfo.cs:184)
+
+INFO  2018-10-15 00:36:28:644
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:29:647
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:29:673
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:29:680
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:33:441
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:33:895
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:37:003
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:37:515
+消息：开始查找网站,当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:40:515
+消息：没有找到符合的网站,开始查找下一页，当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:41:125
+消息：开始查找网站,当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:44:126
+消息：没有找到符合的网站,开始查找下一页，当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:44:751
+消息：开始查找网站,当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:47:751
+消息：没有找到符合的网站,开始查找下一页，当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:48:276
+消息：开始查找网站,当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:51:276
+消息：没有找到符合的网站,开始查找下一页，当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:51:276
+消息：已经是最后一页，结束任务，当前页码6,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:36:56:339
+消息：2018/10/15 0:36:56, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\new\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-10-15 00:37:58:489
+消息：2018/10/15 0:37:58, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:37:58:644
+消息：2018/10/15 0:37:58, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:37:58:752
+消息：2018/10/15 0:37:58, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:37:58:833
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:38:05:471
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:06:473
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:06:499
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:06:509
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:10:314
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:10:800
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:13:909
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:14:433
+消息：开始查找网站,当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:17:509
+消息：没有找到符合的网站,开始查找下一页，当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:17:943
+消息：开始查找网站,当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:20:943
+消息：没有找到符合的网站,开始查找下一页，当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:21:497
+消息：开始查找网站,当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:24:497
+消息：没有找到符合的网站,开始查找下一页，当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:24:807
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:35:632
+消息：2018/10/15 0:38:35, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:38:35:786
+消息：2018/10/15 0:38:35, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:38:35:885
+消息：2018/10/15 0:38:35, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:38:35:959
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:38:43:901
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:44:903
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:44:931
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:44:941
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:48:808
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:49:287
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:52:390
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:54:088
+消息：开始查找网站,当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:57:088
+消息：没有找到符合的网站,开始查找下一页，当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:38:57:719
+消息：开始查找网站,当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:39:00:720
+消息：没有找到符合的网站,开始查找下一页，当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:39:03:513
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:39:46:747
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:39:47:747
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:39:47:765
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:39:47:766
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:39:51:160
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:39:51:620
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:41:04:053
+消息：2018/10/15 0:41:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:41:04:169
+消息：2018/10/15 0:41:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:41:04:276
+消息：2018/10/15 0:41:04, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:41:04:315
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:41:24:506
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:41:25:507
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:41:25:536
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:41:25:543
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:41:29:259
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:41:29:677
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:43:47:762
+消息：查找网站到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:44:10:465
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:44:17:466
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:44:18:467
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:44:18:492
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:44:18:493
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:44:21:740
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:44:22:121
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:44:25:121
+消息：查找网站到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:46:05:612
+消息：2018/10/15 0:46:05, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:46:05:733
+消息：2018/10/15 0:46:05, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:46:05:833
+消息：2018/10/15 0:46:05, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:46:05:879
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:46:12:678
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:46:13:682
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:46:13:709
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:46:13:718
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:46:17:452
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:46:17:823
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:46:20:824
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:46:50:568
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:46:56:056
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:46:57:057
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:46:57:073
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:46:57:074
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:47:00:337
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:47:00:700
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:47:03:702
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:49:07:131
+消息：2018/10/15 0:49:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:49:07:239
+消息：2018/10/15 0:49:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:49:07:373
+消息：2018/10/15 0:49:07, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:49:07:435
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:49:16:427
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:49:17:430
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:49:17:457
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:49:17:467
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:49:21:195
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:49:21:697
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:49:24:698
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:50:23:416
+消息：2018/10/15 0:50:23, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:50:23:558
+消息：2018/10/15 0:50:23, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:50:23:728
+消息：2018/10/15 0:50:23, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:50:23:796
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:50:30:445
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:50:31:447
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:50:31:477
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:50:31:486
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:50:35:209
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:50:35:699
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:50:38:701
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:51:22:151
+消息：2018/10/15 0:51:22, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:51:22:274
+消息：2018/10/15 0:51:22, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:51:22:382
+消息：2018/10/15 0:51:22, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:51:22:420
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:51:29:010
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:51:30:012
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:51:30:040
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:51:30:049
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:51:33:814
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:51:34:349
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:51:37:428
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:52:33:926
+消息：2018/10/15 0:52:33, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:52:34:066
+消息：2018/10/15 0:52:34, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:52:34:165
+消息：2018/10/15 0:52:34, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:52:34:212
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:53:10:705
+消息：2018/10/15 0:53:10, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:53:10:834
+消息：2018/10/15 0:53:10, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:53:10:942
+消息：2018/10/15 0:53:10, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:53:10:980
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:53:17:551
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:53:18:554
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:53:18:582
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:53:18:602
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:53:22:424
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:53:22:827
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:53:25:829
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:53:34:992
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:53:35:083
+消息：2018/10/15 0:53:35, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\new\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-10-15 00:56:32:346
+消息：2018/10/15 0:56:32, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:56:32:464
+消息：2018/10/15 0:56:32, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:56:32:589
+消息：2018/10/15 0:56:32, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:56:32:636
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:56:39:264
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:56:40:266
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:56:40:295
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:56:40:304
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:56:44:061
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:56:44:560
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:56:47:561
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:56:56:699
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:57:01:898
+消息：2018/10/15 0:57:01, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\new\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-10-15 00:57:28:780
+消息：2018/10/15 0:57:28, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:57:28:888
+消息：2018/10/15 0:57:28, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:57:28:980
+消息：2018/10/15 0:57:28, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:57:29:042
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:57:36:134
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:57:37:135
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:57:37:164
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:57:37:173
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:57:40:932
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:57:41:420
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:57:44:511
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:57:53:694
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:58:46:045
+消息：2018/10/15 0:58:46, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:58:46:184
+消息：2018/10/15 0:58:46, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:58:46:296
+消息：2018/10/15 0:58:46, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 00:58:46:370
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 00:58:52:788
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:58:53:791
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:58:53:819
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:58:53:828
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:58:57:562
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:58:58:061
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:59:01:063
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:59:10:189
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 00:59:55:314
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:00:12:588
+消息：2018/10/15 1:00:12, 修改1条记录,1
+位置：RankHelper.Appinfo.ChangeTask(D:\project\new\RankHelper\App\Appinfo.cs:184)
+
+INFO  2018-10-15 01:00:19:780
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:00:20:781
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:00:20:789
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:00:20:790
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:00:24:057
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:00:24:453
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:00:27:529
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:00:36:655
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:01:34:398
+消息：2018/10/15 1:01:34, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:01:34:525
+消息：2018/10/15 1:01:34, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:01:34:696
+消息：2018/10/15 1:01:34, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:01:34:734
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 01:01:40:732
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:01:41:735
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:01:41:764
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:01:41:773
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:01:45:520
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:01:45:952
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:01:48:954
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:01:58:118
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:02:08:203
+消息：2018/10/15 1:02:08, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\new\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-10-15 01:04:01:617
+消息：2018/10/15 1:04:01, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:04:01:743
+消息：2018/10/15 1:04:01, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:04:01:859
+消息：2018/10/15 1:04:01, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:04:01:918
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 01:04:08:449
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:09:450
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:09:474
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:09:484
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:13:281
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:13:713
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:16:716
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:38:439
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:43:982
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:44:983
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:45:001
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:45:002
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:50:569
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:51:003
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:04:54:003
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:05:32:665
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:05:41:825
+消息：2018/10/15 1:05:41, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:05:41:937
+消息：2018/10/15 1:05:41, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:05:42:050
+消息：2018/10/15 1:05:42, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:05:42:108
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 01:05:49:836
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:05:50:839
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:05:50:868
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:05:50:877
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:05:57:644
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:05:58:107
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:06:01:109
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:06:26:269
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:06:36:387
+消息：2018/10/15 1:06:36, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\new\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-10-15 01:07:08:840
+消息：2018/10/15 1:07:08, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:07:08:998
+消息：2018/10/15 1:07:08, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:07:09:097
+消息：2018/10/15 1:07:09, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:07:09:135
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 01:07:15:497
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:07:16:498
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:07:16:526
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:07:16:540
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:07:20:315
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:07:20:855
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:07:23:856
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:08:06:061
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:08:11:192
+消息：2018/10/15 1:08:11, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(D:\project\new\RankHelper\App\Appinfo.cs:229)
+
+INFO  2018-10-15 01:08:57:041
+消息：2018/10/15 1:08:56, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:08:57:178
+消息：2018/10/15 1:08:57, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:08:57:282
+消息：2018/10/15 1:08:57, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(D:\project\new\RankHelper\App\Appinfo.cs:330)
+
+INFO  2018-10-15 01:08:57:340
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(D:\project\new\RankHelper\窗口\MainForm.cs:292)
+
+INFO  2018-10-15 01:09:39:231
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:09:40:235
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:09:40:263
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:09:40:271
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:09:43:999
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:09:44:413
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:09:47:495
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)
+
+INFO  2018-10-15 01:10:07:458
+消息：进入网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(D:\project\new\RankHelper\窗口\MainForm.cs:285)

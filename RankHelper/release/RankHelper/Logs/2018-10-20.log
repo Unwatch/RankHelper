@@ -1,0 +1,452 @@
+﻿
+INFO  2018-10-20 21:44:57:979
+消息：2018/10/20 21:44:57, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 21:44:58:124
+消息：2018/10/20 21:44:58, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 21:44:58:266
+消息：2018/10/20 21:44:58, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 21:44:58:344
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(:0)
+
+INFO  2018-10-20 21:45:06:855
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:45:07:856
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:45:07:866
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:45:07:869
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:45:11:779
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:45:12:370
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:45:15:452
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:47:45:398
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:48:12:503
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:48:13:504
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:48:13:522
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:48:13:522
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:48:17:130
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:48:18:104
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:48:21:104
+消息：查找到符合的网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:48:31:257
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:53:44:635
+消息：2018/10/20 21:53:44, 修改1条记录,1
+位置：RankHelper.Appinfo.ChangeTask(:0)
+
+INFO  2018-10-20 21:53:52:118
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:53:53:118
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:53:53:125
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:53:53:125
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:04:192
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:08:394
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:11:395
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:15:448
+消息：开始查找网站,当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:18:515
+消息：没有找到符合的网站,开始查找下一页，当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:22:450
+消息：开始查找网站,当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:25:450
+消息：没有找到符合的网站,开始查找下一页，当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:29:306
+消息：开始查找网站,当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:32:306
+消息：没有找到符合的网站,开始查找下一页，当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:36:107
+消息：开始查找网站,当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:39:108
+消息：没有找到符合的网站,开始查找下一页，当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:39:108
+消息：已经是最后一页，结束任务，当前页码6,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:44:210
+消息：2018/10/20 21:54:44, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(:0)
+
+INFO  2018-10-20 21:54:53:394
+消息：2018/10/20 21:54:53, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 21:54:53:546
+消息：2018/10/20 21:54:53, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 21:54:53:671
+消息：2018/10/20 21:54:53, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 21:54:53:724
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(:0)
+
+INFO  2018-10-20 21:54:53:817
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:54:817
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:54:837
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:54:843
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:54:58:705
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 21:58:02:450
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:00:09:652
+消息：2018/10/20 22:00:09, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:00:09:797
+消息：2018/10/20 22:00:09, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:00:09:915
+消息：2018/10/20 22:00:09, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:00:09:996
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(:0)
+
+INFO  2018-10-20 22:00:27:703
+消息：2018/10/20 22:00:27, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:00:27:825
+消息：2018/10/20 22:00:27, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:00:27:918
+消息：2018/10/20 22:00:27, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:00:28:002
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(:0)
+
+INFO  2018-10-20 22:00:28:013
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:00:29:014
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:00:29:068
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:00:29:071
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:00:33:946
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:00:34:568
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:00:37:649
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:00:41:311
+消息：开始查找网站,当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:00:44:311
+消息：没有找到符合的网站,开始查找下一页，当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:00:48:850
+消息：开始查找网站,当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:00:51:851
+消息：没有找到符合的网站,开始查找下一页，当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:00:59:348
+消息：开始查找网站,当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:02:349
+消息：没有找到符合的网站,开始查找下一页，当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:27:041
+消息：开始查找网站,当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:30:042
+消息：没有找到符合的网站,开始查找下一页，当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:30:042
+消息：已经是最后一页，结束任务，当前页码6,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:30:647
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:36:385
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:37:387
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:37:408
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:37:409
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:40:748
+消息：开始搜索关键词,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:41:194
+消息：开始查找网站,当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:44:276
+消息：没有找到符合的网站,开始查找下一页，当前页码1,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:48:517
+消息：开始查找网站,当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:51:518
+消息：没有找到符合的网站,开始查找下一页，当前页码2,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:55:223
+消息：开始查找网站,当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:01:58:223
+消息：没有找到符合的网站,开始查找下一页，当前页码3,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:02:03:941
+消息：开始查找网站,当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:02:07:022
+消息：没有找到符合的网站,开始查找下一页，当前页码4,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:02:10:608
+消息：开始查找网站,当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:02:13:610
+消息：没有找到符合的网站,开始查找下一页，当前页码5,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:02:13:610
+消息：已经是最后一页，结束任务，当前页码6,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:02:18:688
+消息：2018/10/20 22:02:18, 统计1条记录,1
+位置：RankHelper.Appinfo.CountTask(:0)
+
+INFO  2018-10-20 22:02:44:211
+消息：2018/10/20 22:02:44, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:02:44:373
+消息：2018/10/20 22:02:44, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:02:44:486
+消息：2018/10/20 22:02:44, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:02:44:570
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(:0)
+
+INFO  2018-10-20 22:03:41:683
+消息：2018/10/20 22:03:41, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:03:41:833
+消息：2018/10/20 22:03:41, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:03:41:965
+消息：2018/10/20 22:03:41, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:03:42:044
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(:0)
+
+INFO  2018-10-20 22:04:01:388
+消息：2018/10/20 22:04:01, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:04:01:521
+消息：2018/10/20 22:04:01, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:04:01:654
+消息：2018/10/20 22:04:01, 更新设置
+位置：RankHelper.Appinfo.UpdateSetting(:0)
+
+INFO  2018-10-20 22:04:01:731
+消息：当前IP地址：192.168.1.6
+位置：RankHelper.MainForm.ShowIP(:0)
+
+INFO  2018-10-20 22:04:01:823
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:04:02:823
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:04:02:881
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:04:02:885
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:05:11:848
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:05:31:130
+消息：2018/10/20 22:05:31, 修改1条记录,1
+位置：RankHelper.Appinfo.ChangeTask(:0)
+
+INFO  2018-10-20 22:05:39:915
+消息：删除缓存、cookie文件......
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:05:40:915
+消息：删除完成
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:05:40:922
+消息：开始执行任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:05:40:922
+消息：开始清除缓存,任务1
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
+
+INFO  2018-10-20 22:06:10:098
+消息：未开始挂机
+位置：RankHelper.MainForm.ShowTaskStatus(:0)
