@@ -239,6 +239,45 @@ namespace RankHelper
 
         }
 
+        public override void webBrowser_DocumentCompleted_AccessPage(object sender, WebBrowserDocumentCompletedEventArgs e)
+        {
+            if (e.Url.ToString().Equals("http://www.so.com/") || e.Url.ToString().Equals("https://www.so.com/"))
+            {
+                return;
+            }
+            //if (e.Url.ToString().Contains("so"))
+            //{
+            //    return;
+            //}
+            webForm.textBox_url.Text = e.Url.ToString();
+            webForm.currentTask.webState = EWebbrowserState.none;
+            webForm.textBox_url.Text = e.Url.ToString();
+            webForm.ShowTask(new AppEventArgs() { message_string = string.Format("进入网站,当前页码{0},任务{1}", 1, webForm.currentTask.nID) });
+
+            Sleep(5000);
+            switch (webForm.currentTask.pageAccessType)
+            {
+                case ePageAccessType.None:
+                    {
+                        EndTask(true);
+                    }
+                    break;
+                case ePageAccessType.Rand:
+                    {
+                        EndTask(true);
+                    }
+                    break;
+                case ePageAccessType.Appoint:
+                    {
+                        EndTask(true);
+                    }
+                    break;
+                default:
+                    break;
+            }
+
+        }
+
         public override void GetNextPageurl()
         {
             HtmlElement ele_page;

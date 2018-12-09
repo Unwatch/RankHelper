@@ -131,9 +131,9 @@ namespace RankHelper
                         webBase.webBrowser_DocumentCompleted_AccessSite(sender, e);
                     }
                     break;
-                case EWebbrowserState.SearchPage://step5
+                case EWebbrowserState.AccessPage://step5
                     {
-                        //webBrowser_DocumentCompleted_SearchPage(sender, e);
+                        webBase.webBrowser_DocumentCompleted_AccessPage(sender, e);
                     }
                     break;
                 default:
@@ -147,7 +147,8 @@ namespace RankHelper
             if (e.Frame.IsMain)
             {
                 if (currentTask != null && (currentTask.webState == EWebbrowserState.Start || currentTask.webState == EWebbrowserState.Search
-                    || currentTask.webState == EWebbrowserState.SearchSite || currentTask.webState == EWebbrowserState.SearchPage))
+                    || currentTask.webState == EWebbrowserState.SearchSite || currentTask.webState == EWebbrowserState.AccessSite 
+                    || currentTask.webState == EWebbrowserState.AccessPage))
                 {
 
                     e.Browser.StopLoad();

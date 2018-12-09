@@ -740,7 +740,7 @@ namespace RankHelper
                                 bExecuteTask = false;
                             }
                             break;
-                        case EWebbrowserState.SearchPage:
+                        case EWebbrowserState.AccessSite:
                             {
                                 Appinfo.listTask[i].nCountExcuteToday += 1;
                                 Appinfo.listTask[i].nCountVaildToday += 1;

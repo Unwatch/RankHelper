@@ -427,6 +427,5 @@ D:\project\webbrowser\20181209\webbrowser\RankHelper\obj\x86\Debug\RankHelper.Ma
 D:\project\webbrowser\20181209\webbrowser\RankHelper\obj\x86\Debug\RankHelper.Properties.Resources.resources
 D:\project\webbrowser\20181209\webbrowser\RankHelper\obj\x86\Debug\RankHelper.SettingForm.resources
 D:\project\webbrowser\20181209\webbrowser\RankHelper\obj\x86\Debug\RankHelper.StatisticsForm.resources
-D:\project\webbrowser\20181209\webbrowser\RankHelper\obj\x86\Debug\RankHelper.WebForm_bak.resources
 D:\project\webbrowser\20181209\webbrowser\RankHelper\obj\x86\Debug\RankHelper.WebForm.resources
 D:\project\webbrowser\20181209\webbrowser\RankHelper\obj\x86\Debug\RankHelper.csproj.GenerateResource.Cache

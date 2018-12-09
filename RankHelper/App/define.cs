@@ -242,9 +242,7 @@ namespace RankHelper
         Start,//打开搜索引擎
         Search,//进行关键词搜索
         SearchSite,//搜索站点
-        SearchSite_Match,//搜索站点
         AccessSite,//访问站点
-        SearchPage,//搜索内页
         AccessPage,//搜索内页
         none//搜索内页
     }

@@ -60,6 +60,11 @@ namespace RankHelper
             this.taskIntervalTimer.Stop();
         }
 
+        public virtual void webBrowser_DocumentCompleted_AccessPage(object sender, WebBrowserDocumentCompletedEventArgs e)
+        {
+            this.taskIntervalTimer.Stop();
+        }
+        
         public void EndTask(bool bSuccess)
         {
             this.taskIntervalTimer.Stop();

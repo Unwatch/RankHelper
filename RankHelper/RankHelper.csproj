@@ -148,12 +148,6 @@
     <Compile Include="窗口\StatisticsForm.Designer.cs">
       <DependentUpon>StatisticsForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="窗口\WebForm_bak.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="窗口\WebForm_bak.Designer.cs">
-      <DependentUpon>WebForm_bak.cs</DependentUpon>
-    </Compile>
     <Compile Include="窗口\WebForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -194,9 +188,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="窗口\StatisticsForm.resx">
       <DependentUpon>StatisticsForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="窗口\WebForm_bak.resx">
-      <DependentUpon>WebForm_bak.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="窗口\WebForm.resx">
       <DependentUpon>WebForm.cs</DependentUpon>
