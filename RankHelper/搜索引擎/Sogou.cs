@@ -82,7 +82,6 @@ namespace RankHelper
 
         public override void webBrowser_DocumentCompleted_SearchSite(object sender, WebBrowserDocumentCompletedEventArgs e)
         {
-            //if (e.Url.ToString().Equals("http://www.so.com/") || e.Url.ToString().Equals("https://www.so.com/"))
             if (!e.Url.ToString().Contains("www.sogou.com/web?query="))
             {
                 return;
@@ -209,7 +208,7 @@ namespace RankHelper
 
         public override void webBrowser_DocumentCompleted_AccessSite(object sender, WebBrowserDocumentCompletedEventArgs e)
         {
-            if (e.Url.ToString().Equals("http://www.so.com/") || e.Url.ToString().Equals("https://www.so.com/"))
+            if (e.Url.ToString().Equals("http://www.sogou.com/") || e.Url.ToString().Equals("https://www.sogou.com/"))
             {
                 return;
             }
@@ -232,12 +231,64 @@ namespace RankHelper
                     break;
                 case ePageAccessType.Rand:
                     {
-                        EndTask(true);
+                        HtmlElementCollection aCol = webForm.webBrowser_new.Document.GetElementsByTagName("a");
+
+                        Random ra = new Random(unchecked((int)DateTime.Now.Ticks));//保证产生的数字的随机性 
+                        int index = ra.Next() % aCol.Count;
+                        index = (index >= aCol.Count) ? aCol.Count - 1 : index;
+
+                        aCol[index].InvokeMember("click");
+                        //if (aCol[index].GetAttribute("href") == null)
+                        //{
+                        //    EndTask(true);
+                        //    break;
+                        //}
+                        //else
+                        //{
+                        //    webForm.textBox_url.Text = aCol[index].GetAttribute("href");
+                        //    webForm.webBrowser_new.Navigate(aCol[index].GetAttribute("href"));
+                        //}
+                        webForm.ShowTask(new AppEventArgs() { message_string = string.Format("访问内页{0}", aCol[index].GetAttribute("href")) });
+                        webForm.currentTask.webState = EWebbrowserState.AccessPage;
+                        this.taskIntervalTimer.Start();
                     }
                     break;
                 case ePageAccessType.Appoint:
                     {
-                        EndTask(true);
+                        HtmlElementCollection aCol = webForm.webBrowser_new.Document.GetElementsByTagName("a");
+
+                        Random ra = new Random(unchecked((int)DateTime.Now.Ticks));//保证产生的数字的随机性 
+                        int index = ra.Next() % aCol.Count;
+                        index = (index >= aCol.Count) ? aCol.Count - 1 : index;
+
+                        for (int i = 0; i < aCol.Count; i++)
+                        {
+                            if (aCol[i].GetAttribute("href") == null)
+                            {
+                                EndTask(true);
+                                continue;
+                            }
+                            else if(aCol[i].GetAttribute("href")== webForm.currentTask.strPageUrl)
+                            {
+                                aCol[i].InvokeMember("click");
+                                break;
+                            }
+                        }
+
+                        //if (aCol[index].GetAttribute("href") == null)
+                        //{
+                        //    EndTask(true);
+                        //    break;
+                        //}
+                        //else
+                        //{
+                        //    webForm.textBox_url.Text = aCol[index].GetAttribute("href");
+                        //    webForm.webBrowser_new.Navigate(aCol[index].GetAttribute("href"));
+                        //}
+
+                        webForm.ShowTask(new AppEventArgs() { message_string = string.Format("访问内页{0}", webForm.currentTask.strPageUrl) });
+                        webForm.currentTask.webState = EWebbrowserState.AccessPage;
+                        this.taskIntervalTimer.Start();
                     }
                     break;
                 default:
@@ -248,41 +299,12 @@ namespace RankHelper
 
         public override void webBrowser_DocumentCompleted_AccessPage(object sender, WebBrowserDocumentCompletedEventArgs e)
         {
-            if (e.Url.ToString().Equals("http://www.so.com/") || e.Url.ToString().Equals("https://www.so.com/"))
-            {
-                return;
-            }
-            //if (e.Url.ToString().Contains("so"))
-            //{
-            //    return;
-            //}
             webForm.textBox_url.Text = e.Url.ToString();
             webForm.currentTask.webState = EWebbrowserState.none;
             webForm.textBox_url.Text = e.Url.ToString();
-            webForm.ShowTask(new AppEventArgs() { message_string = string.Format("进入网站,当前页码{0},任务{1}", 1, webForm.currentTask.nID) });
 
             Sleep(5000);
-            switch (webForm.currentTask.pageAccessType)
-            {
-                case ePageAccessType.None:
-                    {
-                        EndTask(true);
-                    }
-                    break;
-                case ePageAccessType.Rand:
-                    {
-                        EndTask(true);
-                    }
-                    break;
-                case ePageAccessType.Appoint:
-                    {
-                        EndTask(true);
-                    }
-                    break;
-                default:
-                    break;
-            }
-
+            EndTask(true);
         }
 
         public override void GetNextPageurl()
