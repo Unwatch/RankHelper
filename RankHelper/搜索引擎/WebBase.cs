@@ -15,20 +15,20 @@ namespace RankHelper
     {
         public WebForm webForm;
         public string strhtml;
-        public string strPageurl;
+        public string strSiteUrl;
 
         public int nPos_x;
         public int nPos_y;
-        public int nPageIndex = -1;//第几页
+        public int nPageIndex = 1;//第几页
         public int nItem = -1;//第几项
 
         //每次访问网页超时定时器
         public System.Timers.Timer taskIntervalTimer;
 
-        public WebBase(WebForm webForm, string strPageurl, string strhtml)
+        public WebBase(WebForm webForm, string strSiteUrl, string strhtml)
         {
             this.webForm = webForm;
-            this.strPageurl = strPageurl;
+            this.strSiteUrl = strSiteUrl;
             this.strhtml = strhtml;
             nPageIndex = 1;
 

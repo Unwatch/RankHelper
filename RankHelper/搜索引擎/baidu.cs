@@ -12,10 +12,10 @@ namespace RankHelper
 {
     public class Baidu: WebBase
     {
-        public Baidu(WebForm webForm, string strPageurl, string strhtml):base(webForm, strPageurl, strhtml)
+        public Baidu(WebForm webForm, string strSiteUrl, string strhtml):base(webForm, strSiteUrl, strhtml)
         {
             nPos_x = 30;
-            nPos_y = 80;
+            nPos_y = 70;
             webForm.webBrowser_new.Navigate("www.baidu.com");
         }
 
@@ -45,7 +45,7 @@ namespace RankHelper
                 }
 
                 Point point_search = GetPoint(ele_search);
-                webForm.webBrowser_new.Document.Window.ScrollTo(0, point_search.Y);
+                //webForm.webBrowser_new.Document.Window.ScrollTo(0, point_search.Y);
                 int top = webForm.webBrowser_new.Document.GetElementsByTagName("HTML")[0].ScrollTop;//滚动条垂直位置
                 KeyUtils.SetCursorPos(point_search.X + nPos_x, point_search.Y + nPos_y - top);
                 //KeyUtils.SetCursorPos(point_search.X, point_search.Y);
@@ -104,7 +104,7 @@ namespace RankHelper
 
         public override void webBrowser_DocumentCompleted_SearchSite(object sender, WebBrowserDocumentCompletedEventArgs e)
         {
-            if (e.Url.ToString().Equals("http://www.baidu.com/") || e.Url.ToString().Equals("https://www.baidu.com/"))
+            if (!e.Url.ToString().Contains("www.baidu.com/s?"))
             {
                 return;
             }
@@ -128,9 +128,9 @@ namespace RankHelper
                     {
                         break;
                     }
-                    if (!webForm.currentTask.strTitle.Trim().Equals("") && !webForm.currentTask.strPageUrl.Trim().Equals(""))
+                    if (!webForm.currentTask.strTitle.Trim().Equals("") && !webForm.currentTask.strSiteUrl.Trim().Equals(""))
                     {
-                        if (ele_search.InnerText.Contains(webForm.currentTask.strTitle) || ele_search.InnerText.Contains(webForm.currentTask.strPageUrl))
+                        if (ele_search.InnerText.Contains(webForm.currentTask.strTitle) || ele_search.InnerText.Contains(webForm.currentTask.strSiteUrl))
                         {
                             HtmlElementCollection eleCol = ele_search.GetElementsByTagName("a");
                             foreach (HtmlElement element in eleCol)
@@ -139,11 +139,18 @@ namespace RankHelper
                                 webForm.ShowTask(new AppEventArgs() { message_string = string.Format("查找到符合的网站,当前页码{0},任务{1}", nPageIndex, webForm.currentTask.nID) });
                                 webForm.currentTask.webState = EWebbrowserState.AccessSite;
                                 //element.InvokeMember("click");
-                                Sleep(5000);
+                                Sleep(3000);
                                 Point point_ele = GetPoint(element);
-                                webForm.webBrowser_new.Document.Window.ScrollTo(0, point_ele.Y);
+                                int nPos_y = 70;
+
+                                webForm.webBrowser_new.Document.Window.ScrollTo(0, point_ele.Y - nPos_y);
                                 int top2 = webForm.webBrowser_new.Document.GetElementsByTagName("HTML")[0].ScrollTop;//滚动条垂直位置
+                                Sleep(3000);
                                 KeyUtils.SetCursorPos(point_ele.X + nPos_x, point_ele.Y + nPos_y - top2);
+                                Sleep(3000);
+                                webForm.currentTask.webState = EWebbrowserState.AccessSite;
+                                KeyUtils.MouseLBUTTON();
+                                this.taskIntervalTimer.Start();
 
                                 break;
                             }
@@ -162,7 +169,7 @@ namespace RankHelper
                                 //element.InvokeMember("click");
                                 Sleep(3000);
                                 Point point_ele = GetPoint(element);
-                                int nPos_y = 80;
+                                int nPos_y = 70;
 
                                 webForm.webBrowser_new.Document.Window.ScrollTo(0, point_ele.Y - nPos_y);
                                 int top2 = webForm.webBrowser_new.Document.GetElementsByTagName("HTML")[0].ScrollTop;//滚动条垂直位置
@@ -177,7 +184,7 @@ namespace RankHelper
                             }
                         }
                     }
-                    else if (!webForm.currentTask.strPageUrl.Trim().Equals(""))
+                    else if (!webForm.currentTask.strSiteUrl.Trim().Equals(""))
                     {
                         HtmlElementCollection eleCol = ele_search.GetElementsByTagName("a");
                         foreach (HtmlElement element in eleCol)
@@ -188,7 +195,7 @@ namespace RankHelper
                             //element.InvokeMember("click");
                             Sleep(3000);
                             Point point_ele = GetPoint(element);
-                            int nPos_y = 80;
+                            int nPos_y = 70;
 
                             webForm.webBrowser_new.Document.Window.ScrollTo(0, point_ele.Y - nPos_y);
                             int top2 = webForm.webBrowser_new.Document.GetElementsByTagName("HTML")[0].ScrollTop;//滚动条垂直位置
@@ -310,16 +317,6 @@ namespace RankHelper
                         index = (index >= aCol.Count) ? aCol.Count - 1 : index;
 
                         aCol[index].InvokeMember("click");
-                        //if (aCol[index].GetAttribute("href") == null)
-                        //{
-                        //    EndTask(true);
-                        //    break;
-                        //}
-                        //else
-                        //{
-                        //    webForm.textBox_url.Text = aCol[index].GetAttribute("href");
-                        //    webForm.webBrowser_new.Navigate(aCol[index].GetAttribute("href"));
-                        //}
                         webForm.ShowTask(new AppEventArgs() { message_string = string.Format("访问内页{0}", aCol[index].GetAttribute("href")) });
                         webForm.currentTask.webState = EWebbrowserState.AccessPage;
                         this.taskIntervalTimer.Start();
@@ -382,18 +379,34 @@ namespace RankHelper
             HtmlElementCollection eleCol = ele_page.GetElementsByTagName("a");
             foreach (HtmlElement element in eleCol)
             {
-                if (element.InnerText == nPageIndex.ToString())
-                {
-                    webForm.currentTask.webState = EWebbrowserState.SearchSite;
-                    Point point_ele = GetPoint(element);
-                    webForm.webBrowser_new.Document.Window.ScrollTo(0, point_ele.Y);
-                    int top = webForm.webBrowser_new.Document.GetElementsByTagName("HTML")[0].ScrollTop;//滚动条垂直位置
-                    KeyUtils.SetCursorPos(point_ele.X + nPos_x, point_ele.Y + nPos_y - top);
-                    Sleep(3000);
-                    KeyUtils.MouseLBUTTON();
-                    this.taskIntervalTimer.Start();
+                HtmlElementCollection pageCol = element.Children;
 
-                    return;
+                if (pageCol != null)
+                {
+                    for (int i = 0; i < pageCol.Count; i++)
+                    {
+                        if (pageCol[i].GetAttribute("className") == null)
+                        {
+                            continue;
+                        }
+
+                        if (pageCol[i].GetAttribute("className") == "pc")
+                        {
+                            if (pageCol[i].InnerText == nPageIndex.ToString())
+                            {
+                                webForm.currentTask.webState = EWebbrowserState.SearchSite;
+                                Point point_ele = GetPoint(element);
+                                webForm.webBrowser_new.Document.Window.ScrollTo(0, point_ele.Y);
+                                int top = webForm.webBrowser_new.Document.GetElementsByTagName("HTML")[0].ScrollTop;//滚动条垂直位置
+                                KeyUtils.SetCursorPos(point_ele.X + nPos_x, point_ele.Y + nPos_y - top);
+                                Sleep(3000);
+                                KeyUtils.MouseLBUTTON();
+                                this.taskIntervalTimer.Start();
+
+                                return;
+                            }
+                        }
+                    }
                 }
             }
 

@@ -12,7 +12,7 @@ namespace RankHelper
 {
     public class Sogou : WebBase
     {
-        public Sogou(WebForm webForm, string strPageurl, string strhtml) : base(webForm, strPageurl, strhtml)
+        public Sogou(WebForm webForm, string strSiteUrl, string strhtml) : base(webForm, strSiteUrl, strhtml)
         {
             nPos_x = 30;
             nPos_y = 80;
@@ -126,9 +126,9 @@ namespace RankHelper
                                     if (eleCol[j].GetAttribute("className") == "rb"|| eleCol[j].GetAttribute("className") == "vrwrap")
                                     {
                                         nItem++;
-                                        if (!webForm.currentTask.strTitle.Trim().Equals("") && !webForm.currentTask.strPageUrl.Trim().Equals(""))
+                                        if (!webForm.currentTask.strTitle.Trim().Equals("") && !webForm.currentTask.strSiteUrl.Trim().Equals(""))
                                         {
-                                            if (eleCol[j].InnerText.Contains(webForm.currentTask.strTitle) || eleCol[j].InnerText.Contains(webForm.currentTask.strPageUrl))
+                                            if (eleCol[j].InnerText.Contains(webForm.currentTask.strTitle) || eleCol[j].InnerText.Contains(webForm.currentTask.strSiteUrl))
                                             {
                                                 webForm.ShowTask(new AppEventArgs() { message_string = string.Format("查找到符合的网站,当前页码{0},任务{1}", nPageIndex, webForm.currentTask.nID) });
                                                 webForm.currentTask.webState = EWebbrowserState.AccessSite;
@@ -170,7 +170,7 @@ namespace RankHelper
                                                 return;
                                             }
                                         }
-                                        else if (!webForm.currentTask.strPageUrl.Trim().Equals(""))
+                                        else if (!webForm.currentTask.strSiteUrl.Trim().Equals(""))
                                         {
                                             webForm.ShowTask(new AppEventArgs() { message_string = string.Format("查找到符合的网站,当前页码{0},任务{1}", nPageIndex, webForm.currentTask.nID) });
                                             webForm.currentTask.webState = EWebbrowserState.AccessSite;
