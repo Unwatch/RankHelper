@@ -48,6 +48,7 @@ namespace RankHelper
                 KeyUtils.SetCursorPos(point_search.X + nPos_x, point_search.Y + nPos_y - top);
 
                 KeyUtils.MouseLBUTTON();
+                this.taskIntervalTimer.Start();
                 KeyUtils.Copy(webForm.currentTask.strKeyword);
 
                 Sleep(3000);
@@ -75,6 +76,7 @@ namespace RankHelper
                 KeyUtils.SetCursorPos(point_submit.X + nPos_x, point_submit.Y + nPos_y - top2);
 
                 KeyUtils.MouseLBUTTON();
+                this.taskIntervalTimer.Start();
 
                 if (webForm.currentTask == null)
                 {
@@ -88,12 +90,13 @@ namespace RankHelper
         public override void webBrowser_DocumentCompleted_SearchSite(object sender, WebBrowserDocumentCompletedEventArgs e)
         {
             //if (e.Url.ToString().Equals("http://www.so.com/") || e.Url.ToString().Equals("https://www.so.com/"))
-            if (!e.Url.ToString().Contains("www.so.com/s?ie=utf-8&fr=none&src=360sou_newhome&q="))
+            if (!e.Url.ToString().Contains("www.so.com/s?ie=utf-8&fr=none&src=360sou_newhome&q=")&&
+                !e.Url.ToString().Contains("www.so.com/s?q="))
             {
                 return;
             }
 
-            nItem = -1;
+            nItem = 0;
 
             if (e.Url.ToString().Contains("so"))
             {
@@ -122,17 +125,23 @@ namespace RankHelper
                             {
                                 if (eleCol[i].InnerText.Contains(webForm.currentTask.strTitle) || eleCol[i].InnerText.Contains(webForm.currentTask.strPageUrl))
                                 {
-                                    nItem = i;
                                     webForm.ShowTask(new AppEventArgs() { message_string = string.Format("查找到符合的网站,当前页码{0},任务{1}", nPageIndex, webForm.currentTask.nID) });
                                     webForm.currentTask.webState = EWebbrowserState.AccessSite;
-                                    //element.InvokeMember("click");
-                                    Sleep(5000);
+                                    webForm.webBrowser_new.Document.Window.ScrollTo(0, 10000);
+                                    Sleep(3000);
                                     Point point_ele = GetPoint(eleCol[i]);
-                                    webForm.webBrowser_new.Document.Window.ScrollTo(0, point_ele.Y);
-                                    int top2 = webForm.webBrowser_new.Document.GetElementsByTagName("HTML")[0].ScrollTop;//滚动条垂直位置
-                                    KeyUtils.SetCursorPos(point_ele.X + nPos_x, point_ele.Y + nPos_y - top2);
+                                    int nPos_y = 60;
 
-                                    break;
+                                    webForm.webBrowser_new.Document.Window.ScrollTo(0, point_ele.Y - nPos_y);
+                                    int top2 = webForm.webBrowser_new.Document.GetElementsByTagName("HTML")[0].ScrollTop;//滚动条垂直位置
+                                    //KeyUtils.SetCursorPos(point_ele.X + nPos_x - 900, point_ele.Y + nPos_y - top2);
+                                    KeyUtils.SetCursorPos(point_ele.X + nPos_x, point_ele.Y + nPos_y - top2);
+                                    Sleep(3000);
+                                    webForm.currentTask.webState = EWebbrowserState.AccessSite;
+                                    KeyUtils.MouseLBUTTON();
+                                    this.taskIntervalTimer.Start();
+
+                                    return;
                                 }
                             }
                             else if (!webForm.currentTask.strTitle.Trim().Equals(""))
@@ -153,30 +162,36 @@ namespace RankHelper
                                     Sleep(3000);
                                     webForm.currentTask.webState = EWebbrowserState.AccessSite;
                                     KeyUtils.MouseLBUTTON();
-                                    break;
+                                    this.taskIntervalTimer.Start();
+
+                                    return;
                                 }
                             }
                             else if (!webForm.currentTask.strPageUrl.Trim().Equals(""))
                             {
                                 webForm.ShowTask(new AppEventArgs() { message_string = string.Format("查找到符合的网站,当前页码{0},任务{1}", nPageIndex, webForm.currentTask.nID) });
                                 webForm.currentTask.webState = EWebbrowserState.AccessSite;
+                                webForm.webBrowser_new.Document.Window.ScrollTo(0, 10000);
                                 Sleep(3000);
                                 Point point_ele = GetPoint(eleCol[i]);
-                                int nPos_y = 80;
+                                int nPos_y = 60;
 
                                 webForm.webBrowser_new.Document.Window.ScrollTo(0, point_ele.Y - nPos_y);
                                 int top2 = webForm.webBrowser_new.Document.GetElementsByTagName("HTML")[0].ScrollTop;//滚动条垂直位置
-                                KeyUtils.SetCursorPos(point_ele.X + nPos_x - 900, point_ele.Y + nPos_y - top2);
+                                                                                                                     //KeyUtils.SetCursorPos(point_ele.X + nPos_x - 900, point_ele.Y + nPos_y - top2);
+                                KeyUtils.SetCursorPos(point_ele.X + nPos_x, point_ele.Y + nPos_y - top2);
                                 Sleep(3000);
                                 webForm.currentTask.webState = EWebbrowserState.AccessSite;
                                 KeyUtils.MouseLBUTTON();
-                                break;
+                                this.taskIntervalTimer.Start();
+
+                                return;
                             }
                         }
                     }
 
                     //当前搜索页未找到
-                    if (nItem == -1)
+                    //if (nItem == -1)
                     {
                         webForm.ShowTask(new AppEventArgs() { message_string = string.Format("没有找到符合的网站,开始查找下一页，当前页码{0},任务{1}", nPageIndex, webForm.currentTask.nID) });
                         GetNextPageurl();
@@ -246,6 +261,8 @@ namespace RankHelper
                     KeyUtils.SetCursorPos(point_ele.X + nPos_x, point_ele.Y + nPos_y - top);
                     Sleep(3000);
                     KeyUtils.MouseLBUTTON();
+                    this.taskIntervalTimer.Start();
+
                     return;
                 }
             }

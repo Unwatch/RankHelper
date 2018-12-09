@@ -52,6 +52,7 @@ namespace RankHelper
 
                 //ele_search.Focus();
                 KeyUtils.MouseLBUTTON();
+                this.taskIntervalTimer.Start();
                 KeyUtils.Copy(webForm.currentTask.strKeyword);
 
                 //if (webForm.currentTask.webBrowser == eWebBrowser.IE || webForm.currentTask.webBrowser == eWebBrowser.Chrome || webForm.currentTask.webBrowser == eWebBrowser.Qihu || webForm.currentTask.webBrowser == eWebBrowser.Sogou || webForm.currentTask.webBrowser == eWebBrowser.QQ || webForm.currentTask.webBrowser == eWebBrowser.maxthon || webForm.currentTask.webBrowser == eWebBrowser.theworld)
@@ -89,6 +90,7 @@ namespace RankHelper
                 //KeyUtils.SetCursorPos(point_submit.X, point_submit.Y);
 
                 KeyUtils.MouseLBUTTON();
+                this.taskIntervalTimer.Start();
 
                 if (webForm.currentTask == null)
                 {
@@ -169,6 +171,7 @@ namespace RankHelper
                                 Sleep(3000);
                                 webForm.currentTask.webState = EWebbrowserState.AccessSite;
                                 KeyUtils.MouseLBUTTON();
+                                this.taskIntervalTimer.Start();
 
                                 break;
                             }
@@ -194,6 +197,7 @@ namespace RankHelper
                             Sleep(3000);
                             webForm.currentTask.webState = EWebbrowserState.AccessSite;
                             KeyUtils.MouseLBUTTON();
+                            this.taskIntervalTimer.Start();
 
                             break;
                         }
@@ -335,6 +339,8 @@ namespace RankHelper
                     KeyUtils.SetCursorPos(point_ele.X + nPos_x, point_ele.Y + nPos_y - top);
                     Sleep(3000);
                     KeyUtils.MouseLBUTTON();
+                    this.taskIntervalTimer.Start();
+
                     return;
                 }
             }
