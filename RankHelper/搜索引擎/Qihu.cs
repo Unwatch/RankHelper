@@ -226,7 +226,11 @@ namespace RankHelper
                 case ePageAccessType.Rand:
                     {
                         HtmlElementCollection aCol = webForm.webBrowser_new.Document.GetElementsByTagName("a");
-
+                        if (aCol == null || aCol.Count == 0)
+                        {
+                            EndTask(true);
+                            return;
+                        }
                         Random ra = new Random(unchecked((int)DateTime.Now.Ticks));//保证产生的数字的随机性 
                         int index = ra.Next() % aCol.Count;
                         index = (index >= aCol.Count) ? aCol.Count - 1 : index;
@@ -250,7 +254,11 @@ namespace RankHelper
                 case ePageAccessType.Appoint:
                     {
                         HtmlElementCollection aCol = webForm.webBrowser_new.Document.GetElementsByTagName("a");
-
+                        if (aCol == null || aCol.Count == 0)
+                        {
+                            EndTask(true);
+                            return;
+                        }
                         Random ra = new Random(unchecked((int)DateTime.Now.Ticks));//保证产生的数字的随机性 
                         int index = ra.Next() % aCol.Count;
                         index = (index >= aCol.Count) ? aCol.Count - 1 : index;

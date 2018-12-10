@@ -96,6 +96,7 @@ namespace RankHelper
             checkBox_check.Checked = task.bCheck;
             comboBox_Engines.SelectedIndex = (int)task.engine;
             comboBox_searchType.SelectedIndex = (int)task.searchType;
+            textBox_onSiteUrl.Text = task.strOnSiteUrl;
             textBox_keyword.Text = task.strKeyword;
             textBox_Title.Text = task.strTitle;
             textBox_siteUrl.Text = task.strSiteUrl;
@@ -194,6 +195,7 @@ namespace RankHelper
             task.bCheck = checkBox_check.Checked;
             task.engine = (eEngines)comboBox_Engines.SelectedIndex;
             task.searchType = (eSearchType)comboBox_searchType.SelectedIndex;
+            task.strOnSiteUrl = textBox_onSiteUrl.Text;
             task.strKeyword = textBox_keyword.Text;
             task.strTitle = textBox_Title.Text;
             task.strSiteUrl = textBox_siteUrl.Text;
@@ -732,6 +734,35 @@ namespace RankHelper
         private void checkBox_00_CheckedChanged(object sender, EventArgs e)
         {
             RefreshTextBox_CountLimit();
+        }
+
+        private void comboBox_searchType_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            ComboBox comboBox = (ComboBox)sender;
+            switch ((eSearchType)comboBox.SelectedIndex)
+            {
+                case eSearchType.OnSite:
+                    {
+                        label_onSiteUrl.Visible = false;
+                        textBox_onSiteUrl.Visible = false;
+                        label_tip.Visible = false;
+                    }
+                    break;
+                case eSearchType.OffSite:
+                    {
+                        label_onSiteUrl.Visible = true;
+                        textBox_onSiteUrl.Visible = true;
+                        label_tip.Visible = true;
+                    }
+                    break;
+                default:
+                    {
+                        label_onSiteUrl.Visible = false;
+                        textBox_onSiteUrl.Visible = false;
+                        label_tip.Visible = false;
+                    }
+                    break;
+            }
         }
     }
 }

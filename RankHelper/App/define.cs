@@ -254,6 +254,7 @@ namespace RankHelper
         public eTaskAcion taskAcion { get; set; }
         public EWebbrowserState webState { get; set; }
         public bool bCheck { get; set; }
+        public string strOnSiteUrl { get; set; }
         public string strKeyword { get; set; }
         public string strTitle { get; set; }
         public string strSiteUrl { get; set; }
