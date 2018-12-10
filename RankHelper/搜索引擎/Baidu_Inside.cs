@@ -53,7 +53,8 @@ namespace RankHelper
                 //ele_search.Focus();
                 KeyUtils.MouseLBUTTON();
                 this.taskIntervalTimer.Start();
-                KeyUtils.Copy(webForm.currentTask.strKeyword);
+                string tmp = webForm.currentTask.strKeyword + "site:" + webForm.currentTask.strOnSiteUrl;
+                KeyUtils.Copy(tmp);
 
                 //if (webForm.currentTask.webBrowser == eWebBrowser.IE || webForm.currentTask.webBrowser == eWebBrowser.Chrome || webForm.currentTask.webBrowser == eWebBrowser.Qihu || webForm.currentTask.webBrowser == eWebBrowser.Sogou || webForm.currentTask.webBrowser == eWebBrowser.QQ || webForm.currentTask.webBrowser == eWebBrowser.maxthon || webForm.currentTask.webBrowser == eWebBrowser.theworld)
                 //{
@@ -110,48 +111,6 @@ namespace RankHelper
             }
 
             nItem = -1;
-
-            HtmlElementCollection divCol = webForm.webBrowser_new.Document.GetElementsByTagName("div");
-            for (int i = 0; i < divCol.Count; i++)
-            {
-                if (divCol[i].GetAttribute("class") != null)
-                {
-                    if (divCol[i].GetAttribute("class").Equals("search_tool"))
-                    {
-                        divCol[i].InvokeMember("click");
-                        return;
-                    }
-                }
-            }
-
-            return;
-
-            HtmlElementCollection eleInputCol = webForm.webBrowser_new.Document.GetElementsByTagName("input");
-            for (int i = 0; i < eleInputCol.Count; i++)
-            {
-                if (eleInputCol[i].GetAttribute("name") == null)
-                {
-                    EndTask(true);
-                    return;
-                }
-
-                if (eleInputCol[i].GetAttribute("name") == "si")
-                {
-                    eleInputCol[i].InnerText = webForm.currentTask.strOnSiteUrl;
-                    Sleep(3000);
-
-                    HtmlElementCollection eleCol = eleInputCol[i].Parent.Children;
-                    for (int j = 0; j < eleCol.Count; j++)
-                    {
-                        if (eleCol[j].TagName =="a")
-                        {
-                            eleCol[j].InvokeMember("click");
-                            this.taskIntervalTimer.Start();
-                            return;
-                        }
-                    }
-                }
-            }
 
             if (e.Url.ToString().Contains("baidu"))
             {
@@ -259,71 +218,6 @@ namespace RankHelper
                     webForm.ShowTask(new AppEventArgs() { message_string = string.Format("没有找到符合的网站,开始查找下一页，当前页码{0},任务{1}", nPageIndex, webForm.currentTask.nID) });
                     GetNextPageurl();
                 }
-
-                //var task_item = e.Frame.EvaluateScriptAsync(js);
-                ////task_item.Id = i;
-                //task_item.ContinueWith(t =>
-                //{
-                //    if (!t.IsFaulted)
-                //    {
-                //        //诺亚娱乐 - 诺亚娱乐平台官方唯一网站
-                //        //百度网址安全中心提醒您：该页面可能存在违法信息！
-                //        //诺亚娱乐官方权威指定网站是国内知名有效合法代理登录站点,诺亚娱乐平台是彩界唯一一家拥有合法的娱乐平台注册预测走势图,行业首家拥有上下级聊天工具支持网页手机玩法。
-                //        //https://www.nuoya115.com/  - 百度快照
-                //        string log = string.Format("方法webBrowser_DocumentCompleted_SearchSite: 查找第{0}页第{0}项", nPageIndex, i);
-                //        ShowTaskEvent(this, new AppEventArgs() { message_string = log });
-                //        var response = t.Result;
-                //        var EvaluateJavaScriptResult = response.Success ? (response.Result ?? "null") : response.Message;
-
-                //        tagSearchResult searchResult = new tagSearchResult();
-                //        searchResult.nItem = i;
-                //        searchResult.bFinish = true;
-                //        searchResult.bMatch = (response.Result==null) ? false:true;
-                //        listSearch.Add(searchResult);
-
-                //        bool bAllPageFinish = true;
-                //        if (listSearch.Count==10)
-                //        {
-                //            foreach (var item in listSearch)
-                //            {
-                //                if (item.bFinish == false)
-                //                {
-                //                    bAllPageFinish = false;
-                //                }
-                //            }
-                //        }
-
-
-                //        if (bAllPageFinish)
-                //        {
-                //            foreach (var item in listSearch)
-                //            {
-                //                if (item.bMatch == false)
-                //                {
-                //                    nItem = item.nItem;
-                //                    webForm.currentTask.webState = EWebbrowserState.SearchSite_Match;
-                //                    e.Browser.Reload();
-                //                    break;
-                //                }
-                //            }
-                //        }
-                //    }
-                //});
-
-                //return;
-                //var task = e.Frame.EvaluateScriptAsync("document.getElementById('page').innerHTML");//异步
-                //task.ContinueWith(t =>
-                //{
-                //    if (!t.IsFaulted)
-                //    {
-                //        var response = t.Result;
-                //        var EvaluateJavaScriptResult = response.Success ? (response.Result ?? "null") : response.Message;
-                //        GetBaiduPageurl((string)EvaluateJavaScriptResult);
-
-                //        webForm.currentTask.webState = EWebbrowserState.SearchSite;
-                //        webBrowser.Load(GetBaiduNextPageurl());
-                //    }
-                //});
             }
         }
 
