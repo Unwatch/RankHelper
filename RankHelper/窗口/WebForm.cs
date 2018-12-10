@@ -260,7 +260,15 @@ namespace RankHelper
             {
                 case eEngines.Baidu:
                     {
-                        webBase = new Baidu(this, "", "");
+                        if(currentTask.searchType == eSearchType.OnSite)
+                        {
+                            webBase = new Baidu(this, "", "");
+                        }
+                        else
+                        {
+                            webBase = new Baidu_Inside(this, "", "");
+                        }
+
                     }
                     break;
                 case eEngines.Qihu:
