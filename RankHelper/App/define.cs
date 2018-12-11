@@ -24,9 +24,9 @@ namespace RankHelper
 
     public enum eSearchType
     {
-        [Description("站内")]
+        [Description("百度站内")]
         OnSite,
-        [Description("站外")]
+        [Description("其他站内")]
         OffSite
     };
 

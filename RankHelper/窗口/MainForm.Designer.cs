@@ -43,42 +43,46 @@
             // 
             // tabControlTop
             // 
-            this.tabControlTop.Controls.Add(this.tabPage_Setting);
             this.tabControlTop.Controls.Add(this.tabPage_Statistics);
+            this.tabControlTop.Controls.Add(this.tabPage_Setting);
             this.tabControlTop.Controls.Add(this.tabPage_Adsl);
-            this.tabControlTop.Location = new System.Drawing.Point(-1, 4);
+            this.tabControlTop.Location = new System.Drawing.Point(-1, 3);
+            this.tabControlTop.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tabControlTop.Name = "tabControlTop";
             this.tabControlTop.SelectedIndex = 0;
-            this.tabControlTop.Size = new System.Drawing.Size(1081, 610);
+            this.tabControlTop.Size = new System.Drawing.Size(811, 488);
             this.tabControlTop.TabIndex = 1;
             this.tabControlTop.Selected += new System.Windows.Forms.TabControlEventHandler(this.tabControlTop_Selected);
             // 
             // tabPage_Setting
             // 
-            this.tabPage_Setting.Location = new System.Drawing.Point(4, 25);
+            this.tabPage_Setting.Location = new System.Drawing.Point(4, 22);
+            this.tabPage_Setting.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tabPage_Setting.Name = "tabPage_Setting";
-            this.tabPage_Setting.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage_Setting.Size = new System.Drawing.Size(1073, 581);
+            this.tabPage_Setting.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabPage_Setting.Size = new System.Drawing.Size(803, 462);
             this.tabPage_Setting.TabIndex = 2;
             this.tabPage_Setting.Text = "任务设置";
             this.tabPage_Setting.UseVisualStyleBackColor = true;
             // 
             // tabPage_Statistics
             // 
-            this.tabPage_Statistics.Location = new System.Drawing.Point(4, 25);
+            this.tabPage_Statistics.Location = new System.Drawing.Point(4, 22);
+            this.tabPage_Statistics.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tabPage_Statistics.Name = "tabPage_Statistics";
-            this.tabPage_Statistics.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage_Statistics.Size = new System.Drawing.Size(1073, 581);
+            this.tabPage_Statistics.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabPage_Statistics.Size = new System.Drawing.Size(803, 462);
             this.tabPage_Statistics.TabIndex = 1;
             this.tabPage_Statistics.Text = "统计";
             this.tabPage_Statistics.UseVisualStyleBackColor = true;
             // 
             // tabPage_Adsl
             // 
-            this.tabPage_Adsl.Location = new System.Drawing.Point(4, 25);
+            this.tabPage_Adsl.Location = new System.Drawing.Point(4, 22);
+            this.tabPage_Adsl.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tabPage_Adsl.Name = "tabPage_Adsl";
-            this.tabPage_Adsl.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage_Adsl.Size = new System.Drawing.Size(1073, 581);
+            this.tabPage_Adsl.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabPage_Adsl.Size = new System.Drawing.Size(803, 462);
             this.tabPage_Adsl.TabIndex = 3;
             this.tabPage_Adsl.Text = "ADSL设置";
             this.tabPage_Adsl.UseVisualStyleBackColor = true;
@@ -89,9 +93,10 @@
             this.statusStrip_main.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStatusLabel_Status,
             this.toolStripStatusLabel_IP});
-            this.statusStrip_main.Location = new System.Drawing.Point(0, 614);
+            this.statusStrip_main.Location = new System.Drawing.Point(0, 486);
             this.statusStrip_main.Name = "statusStrip_main";
-            this.statusStrip_main.Size = new System.Drawing.Size(1080, 24);
+            this.statusStrip_main.Padding = new System.Windows.Forms.Padding(1, 0, 10, 0);
+            this.statusStrip_main.Size = new System.Drawing.Size(810, 24);
             this.statusStrip_main.TabIndex = 2;
             // 
             // toolStripStatusLabel_Status
@@ -116,20 +121,22 @@
             // 
             this.panel.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.panel.Location = new System.Drawing.Point(2, 0);
+            this.panel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel.Name = "panel";
-            this.panel.Size = new System.Drawing.Size(1076, 569);
+            this.panel.Size = new System.Drawing.Size(807, 455);
             this.panel.TabIndex = 3;
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(218)))), ((int)(((byte)(228)))), ((int)(((byte)(246)))));
-            this.ClientSize = new System.Drawing.Size(1080, 638);
+            this.ClientSize = new System.Drawing.Size(810, 510);
             this.Controls.Add(this.statusStrip_main);
             this.Controls.Add(this.tabControlTop);
             this.Controls.Add(this.panel);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "MainForm";

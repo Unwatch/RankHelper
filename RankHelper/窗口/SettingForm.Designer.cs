@@ -1074,14 +1074,14 @@
             this.label_onSiteUrl.Location = new System.Drawing.Point(312, 58);
             this.label_onSiteUrl.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label_onSiteUrl.Name = "label_onSiteUrl";
-            this.label_onSiteUrl.Size = new System.Drawing.Size(59, 12);
+            this.label_onSiteUrl.Size = new System.Drawing.Size(40, 12);
             this.label_onSiteUrl.TabIndex = 96;
-            this.label_onSiteUrl.Text = "站外网址:";
-            this.label_onSiteUrl.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.label_onSiteUrl.Text = "网址:";
+            this.label_onSiteUrl.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // textBox_onSiteUrl
             // 
-            this.textBox_onSiteUrl.Location = new System.Drawing.Point(375, 55);
+            this.textBox_onSiteUrl.Location = new System.Drawing.Point(356, 55);
             this.textBox_onSiteUrl.Margin = new System.Windows.Forms.Padding(2);
             this.textBox_onSiteUrl.Name = "textBox_onSiteUrl";
             this.textBox_onSiteUrl.Size = new System.Drawing.Size(281, 21);
@@ -1089,7 +1089,7 @@
             // 
             // label_tip
             // 
-            this.label_tip.Location = new System.Drawing.Point(661, 58);
+            this.label_tip.Location = new System.Drawing.Point(642, 58);
             this.label_tip.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label_tip.Name = "label_tip";
             this.label_tip.Size = new System.Drawing.Size(121, 12);
