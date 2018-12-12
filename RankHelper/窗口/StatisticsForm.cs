@@ -61,8 +61,8 @@ namespace RankHelper
             this.listView_statistics.Columns.Add("网站标题", 110);//3
             this.listView_statistics.Columns.Add("网站链接", 110);//4
             this.listView_statistics.Columns.Add("搜索引擎", 110);//5
-            this.listView_statistics.Columns.Add("停留时间", 110);//6
-            this.listView_statistics.Columns.Add("站内外", 110);//7
+            this.listView_statistics.Columns.Add("搜索引擎停留时间", 110);//6
+            this.listView_statistics.Columns.Add("站内地址", 110);//7
             this.listView_statistics.Columns.Add("搜索页码", 110);//8
             this.listView_statistics.Columns.Add("浏览器", 110);//9
 
@@ -71,7 +71,7 @@ namespace RankHelper
             this.listView_statistics.Columns.Add("总流量", 110);//12
             this.listView_statistics.Columns.Add("今天执行次数", 110);//13
             this.listView_statistics.Columns.Add("日限制", 110);//14
-            this.listView_statistics.Columns.Add("停留时间", 110);//15
+            this.listView_statistics.Columns.Add("首页停留时间", 110);//15
             this.listView_statistics.Columns.Add("上次访问时间", 110);//16
 
             this.listView_statistics.Columns.Add("今天内页有效流量", 110);//17
@@ -163,7 +163,7 @@ namespace RankHelper
                 task.strTitle,//3
                 task.strSiteUrl,//4
                 define.GetEnumName(task.engine),//5
-                "",//6
+                task.nEngineTime.ToString(),//6
                 define.GetEnumName(task.pageAccessType),//7
                 task.nCountPage.ToString(),//8
                 define.GetEnumName(task.webBrowser),//9
@@ -172,12 +172,12 @@ namespace RankHelper
                 task.nCountTotal.ToString(),//12
                 task.nCountExcuteToday.ToString(),//13
                 task.nCountLimit.ToString(),//14
-                "15",//15
-                "16",//16
+                task.nSiteTime.ToString(),//15
+                task.tViewSiteLastTime.ToString(),//16
                 task.nCountPageVaildToday.ToString(),//17
                 task.nCountInvaildToday.ToString(),//18
                 task.nCountPageTotal.ToString(),//19
-                "20",//20
+                task.nPageTime.ToString(),//20
                 "21",//21
                 "22"//22
             };

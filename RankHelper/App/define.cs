@@ -310,7 +310,7 @@ namespace RankHelper
             nCountPageTotal = 0;
             nPageTime = 3;
             tViewPageLastTime = new DateTime();
-            tCreateTime = new DateTime();
+            tCreateTime = DateTime.Now;
             tagtempleTime = new tagTempleTime();
             tagtempleTime.nID = nID;
             templeTime = eTempleTime.Rand;

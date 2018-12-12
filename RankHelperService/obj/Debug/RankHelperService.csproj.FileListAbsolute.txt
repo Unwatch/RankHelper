@@ -191,3 +191,12 @@ D:\project\new\RankHelperService\obj\Debug\RankHelperService.Properties.Resource
 D:\project\new\RankHelperService\obj\Debug\RankHelperService.csproj.GenerateResource.Cache
 D:\project\new\RankHelperService\obj\Debug\RankHelperService.exe
 D:\project\new\RankHelperService\obj\Debug\RankHelperService.pdb
+D:\project\webbrowser\20181209\webbrowser\RankHelper\bin\x86\Debug\RankHelperService.exe.config
+D:\project\webbrowser\20181209\webbrowser\RankHelper\bin\x86\Debug\RankHelperService.exe
+D:\project\webbrowser\20181209\webbrowser\RankHelper\bin\x86\Debug\RankHelperService.pdb
+D:\project\webbrowser\20181209\webbrowser\RankHelperService\obj\Debug\RankHelperService.csprojResolveAssemblyReference.cache
+D:\project\webbrowser\20181209\webbrowser\RankHelperService\obj\Debug\RankHelperService.MainForm.resources
+D:\project\webbrowser\20181209\webbrowser\RankHelperService\obj\Debug\RankHelperService.Properties.Resources.resources
+D:\project\webbrowser\20181209\webbrowser\RankHelperService\obj\Debug\RankHelperService.csproj.GenerateResource.Cache
+D:\project\webbrowser\20181209\webbrowser\RankHelperService\obj\Debug\RankHelperService.exe
+D:\project\webbrowser\20181209\webbrowser\RankHelperService\obj\Debug\RankHelperService.pdb
