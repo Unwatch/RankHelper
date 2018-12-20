@@ -107,6 +107,7 @@ namespace RankHelper
             webForm.StopTaskEvent += StopSearch;
             statisticsForm.ChangeTaskEvent += ChangeTask;
             statisticsForm.ShowTaskEvent += ShowTaskStatus;
+            statisticsForm.ShowIPEvent += UpdateIP;
 
             ChangeTaskEvent += settingForm.ChangeTask;
 
@@ -277,6 +278,11 @@ namespace RankHelper
         {
             AppEventArgs arg = e as AppEventArgs;
             ShowTaskStatus(arg.message_string);
+        }
+
+        internal void UpdateIP(object sender, EventArgs e)
+        {
+            ShowIP();
         }
 
         void ShowTaskStatus(string info)

@@ -89,6 +89,7 @@
             // 
             // statusStrip_main
             // 
+            this.statusStrip_main.Dock = System.Windows.Forms.DockStyle.None;
             this.statusStrip_main.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.statusStrip_main.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStatusLabel_Status,
@@ -96,7 +97,7 @@
             this.statusStrip_main.Location = new System.Drawing.Point(0, 486);
             this.statusStrip_main.Name = "statusStrip_main";
             this.statusStrip_main.Padding = new System.Windows.Forms.Padding(1, 0, 10, 0);
-            this.statusStrip_main.Size = new System.Drawing.Size(810, 24);
+            this.statusStrip_main.Size = new System.Drawing.Size(823, 22);
             this.statusStrip_main.TabIndex = 2;
             // 
             // toolStripStatusLabel_Status
@@ -105,7 +106,7 @@
             this.toolStripStatusLabel_Status.BackColor = System.Drawing.Color.Red;
             this.toolStripStatusLabel_Status.BorderSides = System.Windows.Forms.ToolStripStatusLabelBorderSides.Left;
             this.toolStripStatusLabel_Status.Name = "toolStripStatusLabel_Status";
-            this.toolStripStatusLabel_Status.Size = new System.Drawing.Size(700, 19);
+            this.toolStripStatusLabel_Status.Size = new System.Drawing.Size(600, 17);
             this.toolStripStatusLabel_Status.Text = "未开始挂机";
             // 
             // toolStripStatusLabel_IP
@@ -114,13 +115,13 @@
             this.toolStripStatusLabel_IP.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.toolStripStatusLabel_IP.BorderSides = System.Windows.Forms.ToolStripStatusLabelBorderSides.Right;
             this.toolStripStatusLabel_IP.Name = "toolStripStatusLabel_IP";
-            this.toolStripStatusLabel_IP.Size = new System.Drawing.Size(360, 19);
+            this.toolStripStatusLabel_IP.Size = new System.Drawing.Size(210, 17);
             this.toolStripStatusLabel_IP.Text = "正在获取IP...";
             // 
             // panel
             // 
             this.panel.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.panel.Location = new System.Drawing.Point(0, 3);
+            this.panel.Location = new System.Drawing.Point(0, 2);
             this.panel.Margin = new System.Windows.Forms.Padding(2);
             this.panel.Name = "panel";
             this.panel.Size = new System.Drawing.Size(807, 455);
@@ -133,8 +134,8 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(218)))), ((int)(((byte)(228)))), ((int)(((byte)(246)))));
             this.ClientSize = new System.Drawing.Size(810, 510);
             this.Controls.Add(this.statusStrip_main);
-            this.Controls.Add(this.panel);
             this.Controls.Add(this.tabControlTop);
+            this.Controls.Add(this.panel);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
