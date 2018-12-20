@@ -38,8 +38,9 @@
             // listView_statistics
             // 
             this.listView_statistics.Location = new System.Drawing.Point(2, 2);
+            this.listView_statistics.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.listView_statistics.Name = "listView_statistics";
-            this.listView_statistics.Size = new System.Drawing.Size(1066, 539);
+            this.listView_statistics.Size = new System.Drawing.Size(800, 432);
             this.listView_statistics.TabIndex = 1;
             this.listView_statistics.UseCompatibleStateImageBehavior = false;
             this.listView_statistics.DoubleClick += new System.EventHandler(this.listView_statistics_DoubleClick);
@@ -47,9 +48,10 @@
             // checkBox_work
             // 
             this.checkBox_work.Appearance = System.Windows.Forms.Appearance.Button;
-            this.checkBox_work.Location = new System.Drawing.Point(509, 547);
+            this.checkBox_work.Location = new System.Drawing.Point(382, 436);
+            this.checkBox_work.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.checkBox_work.Name = "checkBox_work";
-            this.checkBox_work.Size = new System.Drawing.Size(86, 36);
+            this.checkBox_work.Size = new System.Drawing.Size(64, 29);
             this.checkBox_work.TabIndex = 3;
             this.checkBox_work.Text = "开始挂机";
             this.checkBox_work.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -60,23 +62,25 @@
             // button_wait
             // 
             this.button_wait.Enabled = false;
-            this.button_wait.Location = new System.Drawing.Point(509, 547);
+            this.button_wait.Location = new System.Drawing.Point(382, 436);
+            this.button_wait.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button_wait.Name = "button_wait";
-            this.button_wait.Size = new System.Drawing.Size(86, 36);
+            this.button_wait.Size = new System.Drawing.Size(64, 29);
             this.button_wait.TabIndex = 6;
             this.button_wait.Text = "等待...";
             this.button_wait.UseVisualStyleBackColor = true;
             // 
             // StatisticsForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(218)))), ((int)(((byte)(228)))), ((int)(((byte)(246)))));
-            this.ClientSize = new System.Drawing.Size(1073, 589);
+            this.ClientSize = new System.Drawing.Size(805, 471);
             this.Controls.Add(this.checkBox_work);
             this.Controls.Add(this.listView_statistics);
             this.Controls.Add(this.button_wait);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "StatisticsForm";
             this.Text = "StatisticsForm";
             this.ResumeLayout(false);

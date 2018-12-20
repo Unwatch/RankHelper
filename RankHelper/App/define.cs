@@ -346,13 +346,7 @@ namespace RankHelper
     public enum eConnectionType
     {
         [Description("宽带连接")]
-        Broadband,
-        [Description("模板0")]
-        Temple0,
-        [Description("模板1")]
-        Temple1,
-        [Description("模板2")]
-        Temple2
+        Broadband
     };
 
     public enum eConnectionInvert

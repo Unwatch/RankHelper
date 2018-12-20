@@ -429,3 +429,5 @@ D:\project\webbrowser\20181209\webbrowser\RankHelper\obj\x86\Debug\RankHelper.Se
 D:\project\webbrowser\20181209\webbrowser\RankHelper\obj\x86\Debug\RankHelper.StatisticsForm.resources
 D:\project\webbrowser\20181209\webbrowser\RankHelper\obj\x86\Debug\RankHelper.WebForm.resources
 D:\project\webbrowser\20181209\webbrowser\RankHelper\obj\x86\Debug\RankHelper.csproj.GenerateResource.Cache
+D:\project\webbrowser\20181209\webbrowser\RankHelper\bin\x86\Debug\DotRas.dll
+D:\project\webbrowser\20181209\webbrowser\RankHelper\bin\x86\Debug\DotRas.xml

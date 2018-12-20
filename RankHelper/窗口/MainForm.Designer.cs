@@ -30,8 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.tabControlTop = new System.Windows.Forms.TabControl();
-            this.tabPage_Setting = new System.Windows.Forms.TabPage();
             this.tabPage_Statistics = new System.Windows.Forms.TabPage();
+            this.tabPage_Setting = new System.Windows.Forms.TabPage();
             this.tabPage_Adsl = new System.Windows.Forms.TabPage();
             this.statusStrip_main = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel_Status = new System.Windows.Forms.ToolStripStatusLabel();
@@ -47,42 +47,42 @@
             this.tabControlTop.Controls.Add(this.tabPage_Setting);
             this.tabControlTop.Controls.Add(this.tabPage_Adsl);
             this.tabControlTop.Location = new System.Drawing.Point(-1, 3);
-            this.tabControlTop.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabControlTop.Margin = new System.Windows.Forms.Padding(2);
             this.tabControlTop.Name = "tabControlTop";
             this.tabControlTop.SelectedIndex = 0;
-            this.tabControlTop.Size = new System.Drawing.Size(811, 488);
+            this.tabControlTop.Size = new System.Drawing.Size(811, 481);
             this.tabControlTop.TabIndex = 1;
             this.tabControlTop.Selected += new System.Windows.Forms.TabControlEventHandler(this.tabControlTop_Selected);
-            // 
-            // tabPage_Setting
-            // 
-            this.tabPage_Setting.Location = new System.Drawing.Point(4, 22);
-            this.tabPage_Setting.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.tabPage_Setting.Name = "tabPage_Setting";
-            this.tabPage_Setting.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.tabPage_Setting.Size = new System.Drawing.Size(803, 462);
-            this.tabPage_Setting.TabIndex = 2;
-            this.tabPage_Setting.Text = "任务设置";
-            this.tabPage_Setting.UseVisualStyleBackColor = true;
             // 
             // tabPage_Statistics
             // 
             this.tabPage_Statistics.Location = new System.Drawing.Point(4, 22);
-            this.tabPage_Statistics.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabPage_Statistics.Margin = new System.Windows.Forms.Padding(2);
             this.tabPage_Statistics.Name = "tabPage_Statistics";
-            this.tabPage_Statistics.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.tabPage_Statistics.Size = new System.Drawing.Size(803, 462);
+            this.tabPage_Statistics.Padding = new System.Windows.Forms.Padding(2);
+            this.tabPage_Statistics.Size = new System.Drawing.Size(803, 455);
             this.tabPage_Statistics.TabIndex = 1;
             this.tabPage_Statistics.Text = "统计";
             this.tabPage_Statistics.UseVisualStyleBackColor = true;
             // 
+            // tabPage_Setting
+            // 
+            this.tabPage_Setting.Location = new System.Drawing.Point(4, 22);
+            this.tabPage_Setting.Margin = new System.Windows.Forms.Padding(2);
+            this.tabPage_Setting.Name = "tabPage_Setting";
+            this.tabPage_Setting.Padding = new System.Windows.Forms.Padding(2);
+            this.tabPage_Setting.Size = new System.Drawing.Size(803, 455);
+            this.tabPage_Setting.TabIndex = 2;
+            this.tabPage_Setting.Text = "任务设置";
+            this.tabPage_Setting.UseVisualStyleBackColor = true;
+            // 
             // tabPage_Adsl
             // 
             this.tabPage_Adsl.Location = new System.Drawing.Point(4, 22);
-            this.tabPage_Adsl.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabPage_Adsl.Margin = new System.Windows.Forms.Padding(2);
             this.tabPage_Adsl.Name = "tabPage_Adsl";
-            this.tabPage_Adsl.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.tabPage_Adsl.Size = new System.Drawing.Size(803, 462);
+            this.tabPage_Adsl.Padding = new System.Windows.Forms.Padding(2);
+            this.tabPage_Adsl.Size = new System.Drawing.Size(803, 455);
             this.tabPage_Adsl.TabIndex = 3;
             this.tabPage_Adsl.Text = "ADSL设置";
             this.tabPage_Adsl.UseVisualStyleBackColor = true;
@@ -120,8 +120,8 @@
             // panel
             // 
             this.panel.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.panel.Location = new System.Drawing.Point(2, 0);
-            this.panel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel.Location = new System.Drawing.Point(0, 3);
+            this.panel.Margin = new System.Windows.Forms.Padding(2);
             this.panel.Name = "panel";
             this.panel.Size = new System.Drawing.Size(807, 455);
             this.panel.TabIndex = 3;
@@ -133,10 +133,10 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(218)))), ((int)(((byte)(228)))), ((int)(((byte)(246)))));
             this.ClientSize = new System.Drawing.Size(810, 510);
             this.Controls.Add(this.statusStrip_main);
-            this.Controls.Add(this.tabControlTop);
             this.Controls.Add(this.panel);
+            this.Controls.Add(this.tabControlTop);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "MainForm";

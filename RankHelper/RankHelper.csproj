@@ -66,6 +66,10 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DotRas, Version=1.3.5166.33434, Culture=neutral, PublicKeyToken=b378f04384b7892a, processorArchitecture=MSIL">
+      <HintPath>..\AccessWeb\packages\DotRas.for.Win7.1.3.0\lib\net40\DotRas.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
       <HintPath>..\AccessWeb\packages\log4net.2.0.8\lib\net35-full\log4net.dll</HintPath>
       <Private>True</Private>
@@ -116,6 +120,7 @@
     <Compile Include="工具\KeyUtils.cs" />
     <Compile Include="工具\NetworkUtils.cs" />
     <Compile Include="工具\TypeUtils.cs" />
+    <Compile Include="拨号\AdslReconnect.cs" />
     <Compile Include="搜索引擎\Qihu.cs" />
     <Compile Include="搜索引擎\Baidu_Inside.cs" />
     <Compile Include="搜索引擎\Sm.cs" />

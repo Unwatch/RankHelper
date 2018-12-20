@@ -29,7 +29,10 @@ namespace RankHelper
         {
             foreach (eEngines item in Enum.GetValues(typeof(eEngines)))
             {
-                comboBox_Engines.Items.Add(define.GetEnumName(item));
+                if (item!= eEngines.Sm)
+                {
+                    comboBox_Engines.Items.Add(define.GetEnumName(item));
+                }
             }
             comboBox_Engines.SelectedIndex = 0;
             comboBox_Engines.DropDownStyle = ComboBoxStyle.DropDownList;
@@ -109,6 +112,9 @@ namespace RankHelper
             textBox_pageUrl.Text = task.strPageUrl.ToString();
             textBox_pageTime.Text = task.nPageTime.ToString();
 
+            comboBox_templeTime.SelectedIndex = (int)task.templeTime;
+            comboBox_templeTime_SelectedIndexChanged(comboBox_templeTime, new EventArgs());
+
             checkBox_00.Checked = task.tagtempleTime.bCheck00;
             checkBox_01.Checked = task.tagtempleTime.bCheck01;
             checkBox_02.Checked = task.tagtempleTime.bCheck02;
@@ -158,9 +164,6 @@ namespace RankHelper
             textBox_21.Text = task.tagtempleTime.nCount21.ToString();
             textBox_22.Text = task.tagtempleTime.nCount22.ToString();
             textBox_23.Text = task.tagtempleTime.nCount23.ToString();
-
-            comboBox_templeTime.SelectedIndex = (int)task.templeTime;
-            comboBox_templeTime_SelectedIndexChanged(comboBox_templeTime, new EventArgs());
 
             switch (task.taskAcion)
             {
